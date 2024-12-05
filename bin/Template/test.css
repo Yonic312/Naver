@@ -1,0 +1,55 @@
+
+.edit_here
+{
+	/* TODO:edit here */
+
+}
+
+.bg01
+{
+	
+	background-color: rgb(0, 0, 255) !important;
+	font-size: 20px !important;
+	color: rgb(255, 255, 0) !important;
+	font-weight: bold !important;
+	border-width: 1px !important;
+	border-color: rgb(255, 0, 0) !important;
+	border-radius: 10px !important;
+	box-shadow: rgb(255, 255, 0) 2px 2px 1px 1px !important;
+	text-shadow: black 2px 2px 2px !important;
+	font-family: NotoSansKR-Black !important;
+}
+
+.btn_over
+{
+	
+	background-color: rgb(0, 0, 255) !important;
+	color: rgb(0, 255, 0) !important;
+}
+
+.mybtn
+{
+	background-color: rgb(255, 0, 0) !important;
+}
+
+.mybtn-over
+{
+	background-color: rgb(44,25,233) !important;
+}
+
+.mybtn-down
+{
+	background-color: rgb(231,255,0) !important;
+}
+
+.bg02
+{
+	background-color: rgb(255, 255, 0) !important;
+	color: rgb(0, 0, 0) !important;
+}
+
+.common
+{
+	font-size: 30px !important;
+}
+

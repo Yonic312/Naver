@@ -1,0 +1,523 @@
+{
+  "projectName": "TestPrj",
+  "fileTree": {
+    "type": 0,
+    "name": "TestPrj",
+    "children": [
+      {
+        "type": 1,
+        "name": "Framework",
+        "action": 1,
+        "children": [
+          {
+            "type": 11,
+            "name": "afc",
+            "relType": 7,
+            "path": "afc\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Library",
+        "action": 2,
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Template",
+        "action": 4,
+        "children": [
+          {
+            "type": 1,
+            "name": "Theme",
+            "children": []
+          },
+          {
+            "type": 4,
+            "name": "TestPrjApp_global.stl",
+            "relType": 1,
+            "path": "Template\\"
+          },
+          {
+            "type": 4,
+            "name": "test.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "mycomp.tlay",
+            "action": 7,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "my_btn.tlay",
+            "action": 7,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 13,
+            "name": "TestFont.ffl",
+            "action": 12,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Query",
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Assets",
+        "children": [
+          {
+            "type": 8,
+            "name": "blueSpider.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "blackSpider.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "크롬png.png",
+            "relType": 1,
+            "path": "..\\..\\..\\Downloads\\"
+          },
+          {
+            "type": 8,
+            "name": "사파리png.jpg",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "파이어폭스png.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "ie png.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "오페라 png.png",
+            "relType": 1,
+            "path": "..\\..\\..\\Downloads\\"
+          },
+          {
+            "type": 8,
+            "name": "asset_all.jpg",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 8,
+            "name": "money_png.png",
+            "relType": 1,
+            "path": "Assets\\"
+          },
+          {
+            "type": 1,
+            "name": "fonts",
+            "children": [
+              {
+                "type": 8,
+                "name": "NotoSansKR-Black.ttf",
+                "relType": 1,
+                "path": ""
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "Naver",
+            "children": [
+              {
+                "type": 8,
+                "name": "Pay.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "메뉴.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "메세지.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "장바구니.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "종.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "검색창.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "3뉴스.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3더보기.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3메뉴.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3부동산.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3블로그.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3스토어.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3웹툰.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3증권.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3지도.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "3카페.PNG",
+                "relType": 1,
+                "path": "상단\\"
+              },
+              {
+                "type": 8,
+                "name": "치지직.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "광고1.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "광고2.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "f광고2.jpg",
+                "relType": 1,
+                "path": "..\\..\\..\\Desktop\\네이버\\하단\\"
+              },
+              {
+                "type": 8,
+                "name": "f광고3.jpg",
+                "relType": 1,
+                "path": "..\\..\\..\\Desktop\\네이버\\하단\\"
+              },
+              {
+                "type": 8,
+                "name": "f한광고1.png",
+                "relType": 1,
+                "path": "..\\..\\..\\Desktop\\네이버\\하단\\"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Source",
+        "children": [
+          {
+            "type": 2,
+            "name": "MainView.cls",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 3,
+            "name": "MainView.lay",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 2,
+            "name": "TestPrjApp.cls",
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 2,
+            "name": "TestView.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 2,
+            "name": "TestView2.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView2.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 2,
+            "name": "TestView3.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView3.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 2,
+            "name": "TestView4.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView4.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 2,
+            "name": "TestView5.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView5.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView6.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\"
+          },
+          {
+            "type": 2,
+            "name": "TestView7.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView7.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 2,
+            "name": "TestView8.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView8.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 1,
+            "name": "items",
+            "children": [
+              {
+                "type": 2,
+                "name": "SubView1.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "SubView1.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "SubView2.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "SubView2.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "SubView3.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "SubView3.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              }
+            ]
+          },
+          {
+            "type": 2,
+            "name": "TestView9.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "TestView9.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 2,
+            "name": "NaverCopy.cls",
+            "action": 5,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          },
+          {
+            "type": 3,
+            "name": "NaverCopy.lay",
+            "action": 6,
+            "relType": 1,
+            "path": "Source\\",
+            "comment": ""
+          }
+        ]
+      }
+    ]
+  },
+  "version": "3.2.9"
+}

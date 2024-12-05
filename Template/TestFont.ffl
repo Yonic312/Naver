@@ -1,0 +1,7 @@
+{
+  "styleName": "TestFont",
+  "items": {
+    "edit_here": "\n@font-face {\n\tfont-family: 'edit_here' !no;\n\t\n\n}\n",
+    "{\r\n\tfont-family:": "\r\n@font-face {\r\n\tfont-family: 'NotoSans' !no;\r\n\t\r\n\tfont-weight: 700;\r\n\tsrc: url('Assets/fonts/NotoSansKR-Black.ttf') format('embedded-opentype');\r\n\t\r\n\r\n}\r\n"
+  }
+}
