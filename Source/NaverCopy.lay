@@ -73,7 +73,7 @@
         <div style="position: relative; box-sizing: border-box;">
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 830px; height: 1937px; position: relative; left: 0px; top: 0px; flex-direction: column;">
                 <div style="position: relative; box-sizing: border-box;" class="">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 426.5px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48); margin-top: 0px;">
+                    <div data-base="AFlexLayout" data-class="뉴스" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48); margin-top: 0px;">
                         <div style="position: relative; box-sizing: border-box;" class="">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 794px; height: 394px; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 16px; margin-top: 16px; margin-right: 16px;">
                                 <div style="position: relative; box-sizing: border-box;">
@@ -89,7 +89,7 @@
                                 <div style="position: relative; box-sizing: border-box;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 50px; position: relative; left: 0px; top: 0px; place-content: flex-start; align-items: center;">
                                         <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: 80%; align-self: auto;">
-                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; background-color: rgb(245, 247, 248);">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; padding-top: 10px; padding-bottom: 10px; padding-left: 12px; background-color: rgb(245, 247, 248);">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; text-align: left;">전체언론사 ▼</label>
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">|</label>
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">연합뉴스</label>
@@ -98,11 +98,133 @@
                                             </div>
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: 20%; align-self: auto;">
-                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; text-align: right; padding-top: 5px; padding-bottom: 5px; padding-right: 8px; background-color: rgb(245, 247, 248);">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; text-align: right; padding-top: 10px; padding-bottom: 10px; padding-right: 12px; background-color: rgb(245, 247, 248);">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">뉴스스탠드</label>
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">&nbsp;|&nbsp;</label>
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">뉴스홈</label>
                                             </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; align-items: flex-start; flex-direction: column; margin-top: 15px;">
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 790px; height: 56px; position: relative; left: 0.799988px; top: 0px; margin-left: 0px; text-align: center; justify-content: center; align-items: center;">
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="position: relative; left: 0px; top: 0px; width: 66.5px; height: 20px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 790px; height: 56px; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; justify-content: center; align-items: center;">
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 790px; height: 56px; position: relative; margin-left: 0px; left: 0px; top: 0px; text-align: center; justify-content: center; align-items: center;">
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 790px; height: 56px; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; justify-content: center; align-items: center;">
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="height: 20px; position: relative; left: 0px; top: 0px; width: 66.5px;">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;" class="">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 58.5px; position: relative; left: 0px; bottom: 0px; margin-top: 15px; margin-left: 0px; text-align: left; align-items: center; justify-content: center;">
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 50px;">
+                                                <img src="Assets/Naver/왼쪽 버튼.png">
+                                            </button>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; color: rgb(58, 103, 234); font-weight: normal; font-size: 13.6px; padding-left: 16px; left: 50px;">언론사</label>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; font-size: 13.6px; margin-left: 0px; margin-top: 0px; padding-right: 16px; left: 50px;">&nbsp;더보기 1/4</label>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 50px;">
+                                                <img src="Assets/Naver/오른쪽 버튼.png">
+                                            </button>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; top: 0px; margin-top: 0px; text-align: left; padding: 18px 9px 18px 20px; left: 265px;">
+                                                <img src="Assets/Naver/뉴스 메뉴 1.png">
+                                            </button>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; top: 0px; text-align: left; padding: 18px 20px 18px 9px; right: -253px;">
+                                                <img src="Assets/Naver/뉴스 메뉴 2.png">
+                                            </button>
                                         </div>
                                     </div>
                                 </div>
@@ -111,12 +233,12 @@
                     </div>
                 </div>
                 <div style="position: relative; box-sizing: border-box;" class="">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 60px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48);">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: 59px; position: relative; left: 0px; top: 0px; border-radius: 10px;" src="Assets/Naver/배너 광고1.jpg">
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 60px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-style: solid; border-color: rgba(205, 205, 205, 0.48);">
+                        <div style="position: relative; box-sizing: border-box;" class="">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: 50px; position: relative; left: 0px; top: 0px; border-radius: 10px; margin-top: 10px; margin-bottom: 10px;" src="Assets/Naver/배너 광고1.jpg">
                         </div>
                         <div style="position: relative; box-sizing: border-box;">
-                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="height: 10px; position: absolute; left: -20px; background-color: rgba(0, 0, 0, 0); color: rgb(151, 151, 151); width: 10px; font-size: 10px; top: 7px;">X</button>
+                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="height: 10px; position: absolute; left: -20px; background-color: rgba(0, 0, 0, 0); color: rgb(151, 151, 151); width: 10px; font-size: 10px; top: 17px;">X</button>
                         </div>
                     </div>
                 </div>
