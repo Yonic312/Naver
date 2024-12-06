@@ -96,12 +96,12 @@
         <div style="position: relative; box-sizing: border-box;" class="">
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 2093.7px; position: relative; top: 0px; right: 0px; margin-top: 0px; margin-left: 30px; flex-direction: column;">
                 <div style="position: relative; box-sizing: border-box;" class="">
-                    <div data-base="AFlexLayout" data-class="login" class="AFlexLayout-Style" style="width: 416px; height: 165px; position: relative; left: 0px; top: 0px; flex-direction: column; justify-content: center; align-items: center; padding: 21px 20px 18px; margin-bottom: 10px;">
+                    <div data-base="AFlexLayout" data-class="login" class="AFlexLayout-Style" style="width: 416px; height: 165px; position: relative; left: 0px; top: 0px; flex-direction: column; justify-content: center; align-items: center; padding: 21px 20px 18px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.46);">
                         <div style="position: relative; box-sizing: border-box;">
-                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 12.5px; font-weight: bold;">네이버를 더 안전하고 편리하게 이용하세요</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 12.5px; font-weight: bold; color: rgb(0, 0, 0);">네이버를 더 안전하고 편리하게 이용하세요</label>
                         </div>
                         <div style="position: relative; box-sizing: border-box;" class="">
-                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 375px; height: 57px; position: relative; left: 0px; top: 0px; color: rgb(255, 255, 255); margin-left: 0px; font-size: 14.7px; background-color: rgb(0, 0, 0); margin-top: 17px; margin-bottom: 17px;">로그인</button>
+                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 375px; height: 57px; position: relative; left: 0px; top: 0px; color: rgb(255, 255, 255); margin-left: 0px; font-size: 14.7px; background-color: rgb(3, 199, 90); margin-top: 7px; margin-bottom: 7px; font-weight: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;로그인</button>
                         </div>
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
@@ -110,27 +110,30 @@
                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px;">&nbsp;| 회원가입</label>
                             </div>
                         </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; left: -60px; top: -62px; color: rgb(255, 255, 255); font-size: 18px; font-weight: bold;">NAVER</label>
+                        </div>
                     </div>
                 </div>
                 <div style="position: relative; box-sizing: border-box;" class="">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 240px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48);">
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 240px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.46);">
                         <div style="position: relative; box-sizing: border-box;" class="">
                             <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;" src="Assets/Naver/m광고1.png">
                         </div>
                     </div>
                 </div>
                 <div style="position: relative; box-sizing: border-box;" class="">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 80px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48);">
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 80px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.46);">
                         <div style="position: relative; box-sizing: border-box;">
                             <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;" src="Assets/Naver/m광고2.png">
                         </div>
                     </div>
                 </div>
                 <div style="position: relative; box-sizing: border-box;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 172px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48);"></div>
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 172px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.46);"></div>
                 </div>
                 <div style="position: relative; box-sizing: border-box;">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 236.5px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48);"></div>
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 236.5px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.46);"></div>
                 </div>
                 <div style="position: relative; box-sizing: border-box;">
                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 236.5px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48);"></div>
@@ -147,9 +150,9 @@
             </div>
         </div>
     </div>
-    <div data-base="AFlexLayout" data-class="footer" class="AFlexLayout-Style" style="width: 100%; height: 433px; position: absolute; left: 0px; bottom: 0px; background-color: rgb(245, 246, 247);">
+    <div data-base="AFlexLayout" data-class="footer" class="AFlexLayout-Style" style="width: 100%; height: 433px; position: absolute; left: 0px; bottom: -6.10352e-05px; background-color: rgb(245, 246, 247);">
         <div style="position: relative; box-sizing: border-box;" class="">
-            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 100%; position: relative; left: 66.5px; top: 0px; width: 1282px; flex-direction: column; background-color: rgb(245, 246, 247); border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.45);">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 100%; position: relative; left: 66.5px; top: 0px; width: 1282px; flex-direction: column; background-color: rgb(245, 246, 247); border-style: solid; border-color: rgba(205, 205, 205, 0.45);">
                 <div style="position: relative; box-sizing: border-box;" class="">
                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 161.5px; position: relative; left: calc(50% - 640px); top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 30px; padding-bottom: 30px; margin-left: -1.99992px;" data-center-x="true">
                         <div data-base="AView" data-class="AView" class="AView-Style" style="width: 410px; height: 100%; position: relative; top: 0px; display: inline-block; background-color: rgba(0, 0, 0, 0);">
