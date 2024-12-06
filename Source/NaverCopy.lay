@@ -63,19 +63,50 @@
             </div>
         </div>
         <div style="position: relative; box-sizing: border-box;">
-            <div data-base="AView" data-class="AView" class="AView-Style layout_dnd_hover_border" style="width: 1280px; height: 150px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: center; margin-left: 0px; margin-top: -60px;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 150px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: center; margin-left: 0px; margin-top: -20px;">
                 <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 522px; height: 108px; position: relative; left: 0px; top: 0px; margin-top: 30px; margin-left: 80px;" src="Assets/Naver/h광고1.png">
                 <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 228px; position: relative; height: 108px; margin-left: 40px; left: 0px; top: 0px;" src="Assets/Naver/광고2.png">
             </div>
         </div>
     </div>
-    <div data-base="AFlexLayout" data-class="content" class="AFlexLayout-Style" style="width: 1280px; height: calc((100% - 286px) - 493px); position: absolute; left: 66.5px; top: 286px; overflow: visible;" data-sgap-height="1">
+    <div data-base="AFlexLayout" data-class="content" class="AFlexLayout-Style" style="width: 1280px; height: calc((100% - 356px) - 423px); position: absolute; left: 66.5px; top: 356px; overflow: visible;" data-sgap-height="1">
         <div style="position: relative; box-sizing: border-box;">
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 830px; height: 1937px; position: relative; left: 0px; top: 0px; flex-direction: column;">
                 <div style="position: relative; box-sizing: border-box;" class="">
-                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 426.5px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48);">
-                        <div style="position: relative; box-sizing: border-box;">
-                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;"></div>
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 426.5px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48); margin-top: 0px;">
+                        <div style="position: relative; box-sizing: border-box;" class="">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 794px; height: 394px; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 16px; margin-top: 16px; margin-right: 16px;">
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; background-color: rgba(0, 0, 0, 0); left: 0px; top: 0px;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-weight: bold; font-size: 13px;">뉴스스탠드</label>
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;• 언론사편집</label>
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;/ 엔터</label>
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;/ 스포츠</label>
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;/ 경제</label>
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;/ 쇼핑투데이</label>
+                                    </div>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 50px; position: relative; left: 0px; top: 0px; place-content: flex-start; align-items: center;">
+                                        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: 80%; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; padding-top: 5px; padding-bottom: 5px; padding-left: 8px; background-color: rgb(245, 247, 248);">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; text-align: left;">전체언론사 ▼</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">|</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">연합뉴스</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">·</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">김용현, 계엄발표 4시간 전 '충암 후배' 이상민과 통화</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: 20%; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; text-align: right; padding-top: 5px; padding-bottom: 5px; padding-right: 8px; background-color: rgb(245, 247, 248);">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">뉴스스탠드</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">&nbsp;|&nbsp;</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">뉴스홈</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -133,7 +164,7 @@
                         </div>
                     </div>
                 </div>
-                <div style="position: relative; box-sizing: border-box;">
+                <div style="position: relative; box-sizing: border-box;" class="">
                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 420px; height: 172px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.46);"></div>
                 </div>
                 <div style="position: relative; box-sizing: border-box;" class="">
@@ -154,7 +185,7 @@
             </div>
         </div>
     </div>
-    <div data-base="AFlexLayout" data-class="footer" class="AFlexLayout-Style" style="width: 100%; height: 433px; position: relative; background-color: rgb(245, 246, 247); top: 2654px; left: 0px; margin-top: -60px;">
+    <div data-base="AFlexLayout" data-class="footer" class="AFlexLayout-Style" style="width: 100%; height: 433px; position: relative; background-color: rgb(245, 246, 247); top: 2654px; left: 0px; margin-top: -40px;">
         <div style="position: relative; box-sizing: border-box;" class="">
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 100%; position: relative; left: 66.5px; top: 0px; width: 1282px; flex-direction: column; background-color: rgb(245, 246, 247); border-style: solid; border-color: rgba(205, 205, 205, 0.45);">
                 <div style="position: relative; box-sizing: border-box;" class="">
