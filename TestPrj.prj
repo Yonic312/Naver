@@ -283,6 +283,42 @@
                 "name": "f한광고1.png",
                 "relType": 1,
                 "path": "..\\..\\..\\Desktop\\네이버\\하단\\"
+              },
+              {
+                "type": 8,
+                "name": "옆괄호.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "기업 사이트.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "웨일 브라우저 - 복사본.PNG",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "배너 광고1.jpg",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "m광고1.png",
+                "relType": 1,
+                "path": ""
+              },
+              {
+                "type": 8,
+                "name": "m광고2.png",
+                "relType": 1,
+                "path": ""
               }
             ]
           }
