@@ -319,6 +319,12 @@
                 "name": "m광고2.png",
                 "relType": 1,
                 "path": ""
+              },
+              {
+                "type": 8,
+                "name": "h광고1.png",
+                "relType": 1,
+                "path": ""
               }
             ]
           }
