@@ -20,43 +20,43 @@
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3메뉴.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; left: 0px; top: 0px;">메일</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3카페.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">카페</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3블로그.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">블로그</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3스토어.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">스토어</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3뉴스.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">뉴스</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3증권.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">증권</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3부동산.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">부동산</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3지도.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">지도</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px; margin-left: 0px;" src="Assets/Naver/3웹툰.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">웹툰</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px; margin-top: 3.33336px;" src="Assets/Naver/치지직.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">치지직</label>
                 </div>
-                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); display: inline-block; margin-top: 0px; left: -3px; top: 0px; margin-left: -10px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); display: inline-block; margin-top: 0px; left: -3px; top: 0px; margin-left: -15px;">
                     <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 44px; height: 44px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/3더보기.PNG">
                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: static; left: 100px; top: 100px;">&nbsp; &nbsp;&nbsp;</label>
                 </div>
@@ -149,7 +149,7 @@
     </div>
     <div data-base="AFlexLayout" data-class="footer" class="AFlexLayout-Style" style="width: 100%; height: 433px; position: absolute; left: 0px; bottom: 0px; background-color: rgb(245, 246, 247);">
         <div style="position: relative; box-sizing: border-box;" class="">
-            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 100%; position: relative; left: 0px; top: 0px; width: 1282px; flex-direction: column; background-color: rgb(245, 246, 247); border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.45);">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 100%; position: relative; left: 66.5px; top: 0px; width: 1282px; flex-direction: column; background-color: rgb(245, 246, 247); border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.45);">
                 <div style="position: relative; box-sizing: border-box;" class="">
                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 161.5px; position: relative; left: calc(50% - 640px); top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 30px; padding-bottom: 30px; margin-left: -1.99992px;" data-center-x="true">
                         <div data-base="AView" data-class="AView" class="AView-Style" style="width: 410px; height: 100%; position: relative; top: 0px; display: inline-block; background-color: rgba(0, 0, 0, 0);">
@@ -212,7 +212,7 @@
                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 13.65px; font-weight: bold;">공지사항</label>
                             </div>
                             <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
-                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">네이버 개인정보 처리방침 변경에 대한 안내 말씀드립니다.</label>
+                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 30px; top: 0px;">네이버 개인정보 처리방침 변경에 대한 안내 말씀드립니다.</label>
                             </div>
                             <div style="position: relative; box-sizing: border-box;">
                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13.65px; left: 0px; top: 0px; margin-left: 0px; font-weight: bold;">서비스 전체보기&nbsp;</label>
@@ -229,26 +229,26 @@
                             <div style="position: relative; box-sizing: border-box;" class="">
                                 <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 827px; height: 100%; position: relative; top: 0px; left: 0px; flex-direction: column; padding-top: 20px; padding-bottom: 20px;">
                                     <div style="position: relative; box-sizing: border-box;">
-                                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 20px; position: relative; left: 0px; top: 0px; margin-top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 96px; height: auto; position: relative; font-weight: bold; background-color: rgba(0, 0, 0, 0);">Partners</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">프로젝트 꽃</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 네이버 비즈니스</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 네이버 비즈니스 스쿨</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 네이버 광고</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 스토어 개설</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;|지역업체 등록</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 엑스퍼트 등록</label>
+                                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 860px; height: 20px; position: relative; top: 0px; margin-top: 0px; background-color: rgba(0, 0, 0, 0); left: 0px;">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 96px; height: auto; position: relative; font-weight: bold; background-color: rgba(0, 0, 0, 0); margin-right: 10px; font-size: 13px;">Partners</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">프로젝트 꽃</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 비즈니스</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 비즈니스 스쿨</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 광고</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 스토어 개설</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 지역업체 등록</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 엑스퍼트 등록</label>
                                         </div>
                                     </div>
                                     <div style="position: relative; box-sizing: border-box;">
-                                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 20px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 96px; height: auto; position: relative; font-weight: bold;">Developers</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">네이버 개발자 센터</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 오픈 API</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 오픈 소스</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 네이버 D2</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| D2SF</label>
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px;">&nbsp;| 네이버 랩스</label>
+                                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 20px; position: relative; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 96px; height: auto; position: relative; font-weight: bold; margin-right: 10px; font-size: 13px;">Developers</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">네이버 개발자 센터</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 오픈 API</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 오픈 소스</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 D2</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| D2SF</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 랩스</label>
                                         </div>
                                     </div>
                                 </div>
