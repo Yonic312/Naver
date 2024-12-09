@@ -1,4 +1,4 @@
-<div data-base="AView" data-class="Shopping" class="AView-Style" style="left: 0px; top: 0px; width: 830px; height: 560px; background-color: rgb(255, 255, 255); position: absolute;" data-browser-width="1060" data-browser-height="660" data-center-y="true" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;ALabel&quot;,&quot;AButton&quot;,&quot;AImage&quot;]}">
+<div data-base="AView" data-class="Shopping" class="AView-Style" style="left: 0px; top: 0px; width: 830px; height: 560px; background-color: rgb(255, 255, 255); position: absolute;" data-browser-width="860" data-browser-height="590" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;ALabel&quot;,&quot;AButton&quot;,&quot;AImage&quot;]}">
     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: absolute; left: calc(50% - 414px); top: calc(50% - 279px); flex-direction: column;" data-center-x="true" data-center-y="true">
         <div style="position: relative; box-sizing: border-box;" class="">
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 58px; position: relative; top: 0px; width: 100%; padding: 19px 20px 16px; align-items: center; margin-left: 0px; left: 0px;">
@@ -39,12 +39,12 @@
         </div>
         <div style="position: relative; box-sizing: border-box;">
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 826px; height: 376px; position: relative; left: 0px; top: 0px; padding-left: 20px; padding-right: 20px;">
-                <div style="position: relative; box-sizing: border-box;">
+                <div style="position: relative; box-sizing: border-box;" class="">
                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 375px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px; width: 786px;">
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 248px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column;">
                                 <div style="position: relative; box-sizing: border-box;" class="">
-                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 248px; height: 88px; position: relative; flex-flow: column nowrap; align-items: flex-start; place-content: flex-start; padding: 5px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.49); left: 0px; top: 0px;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 248px; height: 88px; position: relative; flex-flow: column nowrap; align-items: flex-start; place-content: flex-start; padding: 5px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.49); left: 0px; top: 0px; background-color: rgb(249, 251, 253);">
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 228px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; text-align: center; justify-content: flex-start;">
                                                 <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: 14.28%; align-self: auto;">
@@ -111,31 +111,125 @@
                                     </div>
                                 </div>
                                 <div style="position: relative; box-sizing: border-box;" class="">
-                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100px; position: relative; left: 0px; top: 0px; margin-top: 10px;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-top: 10px;">
                                         <div style="position: relative; box-sizing: border-box;" class="">
-                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 74.5px; position: relative; top: 0px; align-items: center; padding-left: 5px; padding-right: 5px; left: 0px;">
-                                                <div style="position: relative; box-sizing: border-box;" class="">
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 74.5px; position: relative; top: 0px; align-items: center; left: 0px; background-color: rgb(249, 251, 253); border-width: 1px; border-style: solid; border-color: rgb(211, 213, 215); width: 248px; text-align: center;">
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;">
-                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">쇼핑MY</label>
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑 i1.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">쇼핑MY</label>
                                                     </div>
                                                 </div>
-                                                <div style="position: relative; box-sizing: border-box;" class="">
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px; margin-left: 0px; margin-top: 0px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑 i2.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">리뷰적립</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;">
-                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">리뷰적립</label>
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑 i3.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">주문</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px; margin-top: 0px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑 i4.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">장바구니</label>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;" class="">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 10px;">
+                                        <div style="position: relative; box-sizing: border-box;" class="">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 248px; height: 100%; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑i5.PNG">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;" class="">
+                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: center; margin-top: 8px;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; text-align: center;">아이소이 과즙PHA토너 불만족시 환불</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 538px; height: 375px; position: relative; left: 0px; top: 0px; margin-top: 0px; padding-left: 20px; padding-right: 20px;">
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 518px; height: 375px; position: relative; left: 0px; top: 0px; flex-flow: column nowrap; overflow: visible; align-content: flex-start;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: flex-start; flex-wrap: wrap;">
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i10.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">혜지스 토트백</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">특가 세일 중!</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
-                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;">
-                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">주문</label>
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; margin-left: 8px; width: 95px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i11.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">목주름 많으신분</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">깜짝 특가 1+1</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
-                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;">
-                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">장바구니</label>
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; margin: 0px 0px 0px 8px; width: 95px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i12.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">후기가 증명해~</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">도톰쇼파패드</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative; margin-left: 8px;" src="Assets/네이버/메인/쇼핑i13.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">고급진~헤링본!</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">최대90%+무배!</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 16px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i14.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">양털~안감보여?</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">후끈후끈hot따뜻</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i15.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">겨울코디부탁해</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">인기신상할인중</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;" class="">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 8px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i16.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">48시간 ALL SALE</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">무료배송까지~</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 8px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i17.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">10,000보 걷기?</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">쉽던데요?</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;" class="">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 8px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i18.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">따듯한데 예뻐~</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">연말 코디로 딱!</label>
+                                                    </div>
+                                                </div>
+                                                <div style="position: relative; box-sizing: border-box;">
+                                                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 8px;">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i19.PNG">
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">호떡 그맛 그대로</label>
+                                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">특가때 쟁여놔요</label>
                                                     </div>
                                                 </div>
                                             </div>
@@ -144,10 +238,43 @@
                                 </div>
                             </div>
                         </div>
-                        <div style="position: relative; box-sizing: border-box;">
-                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 538px; height: 375px; position: relative; left: 0px; top: 0px;"></div>
-                        </div>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 50px; position: relative; left: 0px; top: 0px; padding: 15px 20px 14px; margin-left: 20px; margin-right: 20px; text-align: center; justify-content: center; align-items: center;">
+                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: auto; height: 50px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑i20.PNG">
+                </div>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box;" class="">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 58px; position: relative; padding-top: 10px; padding-bottom: 11px; top: 0px; margin-top: 17px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48); text-align: center; align-items: center; justify-content: center; left: -1px;">
+                <div style="position: relative; box-sizing: border-box;" class="">
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;">
+                        <img src="Assets/네이버/메인/t버튼 좌.png">
+                    </button>
+                </div>
+                <div style="position: relative; box-sizing: border-box;" class="">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-left: 16px;">쇼핑아이템</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">&nbsp;더보기&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-weight: bold;">1</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; color: rgb(205, 205, 205); padding-right: 16px;">/13</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;">
+                        <img src="Assets/네이버/메인/t버튼 우.png">
+                    </button>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 33px; height: 21px; position: absolute; top: calc(50% - 10.5px); left: 250px;" src="Assets/네이버/메인/ad.PNG" data-center-y="true">
                 </div>
             </div>
         </div>

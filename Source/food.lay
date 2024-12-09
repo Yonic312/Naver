@@ -1,0 +1,443 @@
+<div data-base="AView" data-class="food" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 100%; background-color: rgb(255, 255, 255); position: absolute;" data-browser-width="880" data-browser-height="1181" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;ALabel&quot;,&quot;AImage&quot;,&quot;AButton&quot;]}">
+    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px; flex-direction: column;">
+        <div style="position: relative; box-sizing: border-box;" class="">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 830px; height: 58px; position: relative; left: -1px; top: 0px; padding: 18px 20px 17px; align-items: center;">
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; margin-left: 0px; margin-top: 0px; color: rgb(155, 155, 155);">추천 • 구독</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">자동차</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">웹툰</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">패션뷰티</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(0, 0, 0); margin-left: 0px; margin-top: 0px;">푸드</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">리빙</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">책방</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">지식+</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">건강</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">&nbsp;/&nbsp;</label>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 14.8px; color: rgb(155, 155, 155);">게임</label>
+                </div>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box;" class="">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 1067px; position: relative; top: 0px; flex-direction: column;">
+                <div style="position: relative; box-sizing: border-box;" class="">
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 830px; height: 266px; position: relative; top: 0px;">
+                        <div style="position: relative; box-sizing: border-box;" class="">
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 270px; height: 266px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-left: 20px; padding-bottom: 24px; margin-left: -4px;">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/food1.PNG">
+                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 98px; position: relative; left: 0px; top: 0px; flex-direction: column;">
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; color: rgb(235, 170, 0); margin-bottom: 4px;">레시피 집중탐구</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 12px; font-weight: bold;">에어프라이어 두부구이</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; margin-top: 4px;">간장 소스까지 더하면</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px;">우리 밉맛에도 딱 맞아요</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 270px; height: 266px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-left: 20px; padding-bottom: 24px; margin-left: -4px;">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/food2.PNG">
+                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 98px; position: relative; left: 0px; top: 0px; flex-direction: column;">
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; color: rgb(235, 170, 0); margin-bottom: 4px;">푸드스토리</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 12px; font-weight: bold;">맛과 본질을 잃지 않고 개성 있는 비...</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; margin-top: 4px;">다양한 재료가 '섞고 비비는'과정</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px;">본래 속성은 변하지 않는 것이 포인트</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 270px; height: 266px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-left: 20px; padding-bottom: 24px; margin-left: -4px;">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/food3.PNG">
+                                <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 98px; position: relative; left: 0px; top: 0px; flex-direction: column;">
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; color: rgb(235, 170, 0); margin-bottom: 4px;">오늘의 푸드TV</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 12px; font-weight: bold;">굴 소스 하나면 완벽! 아삭한 청경채 ...</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; margin-top: 4px; margin-left: 0px;">새우의 고소한 맛과</label>
+                                    </div>
+                                    <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px;">향긋한 표고버섯의 식감 폭발</label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;" class="">
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 830px; height: 490px; position: relative; left: 0px; top: 0px; padding-left: 20px; padding-right: 20px; flex-wrap: wrap; margin-left: 0px; padding-top: 20px;">
+                        <div style="position: relative; box-sizing: border-box;" class="">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-bottom: 10px;">
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food4.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 211px; height: auto; position: relative; display: inline-block; vertical-align: top; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 19px;">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px;">다이어트 유부초밥 만들기 초간</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">단 김밥 단무지 스팸 유부 롤유...</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food4-2.PNG">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">꼬마츄츄</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-left: 15px; margin-bottom: 10px;">
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food5.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 211px; height: auto; position: relative; display: inline-block; vertical-align: top; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 19px;">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px;">토마토 치킨 스튜 만들기 건강식</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">단 마녀스프 다이어트 레시피 ...</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food5-1.PNG">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">깡아맘</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-bottom: 10px;">
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food6.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 211px; height: auto; position: relative; display: inline-block; vertical-align: top; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 19px;">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px;">촉촉한 전자레인지 계란찜 레시</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">피 초간단 팁 전자렌지 달걀찜</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food6-2.PNG">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">끝도없는 인기</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-left: 15px; margin-bottom: 10px;">
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food7.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 211px; height: auto; position: relative; display: inline-block; vertical-align: top; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 19px;">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px;">힘들고 지칠땐 고함량 아...</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">자주 힘들고 지친다면?</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/7--2.PNG">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">이너셋</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-bottom: 10px;">
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food8.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 211px; height: auto; position: relative; display: inline-block; vertical-align: top; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 19px;">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px;">어남선생 오이무침 레시피 새콤</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">달콤 오이무침 간단한 반찬 오...</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food8-2.PNG">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">애플</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-left: 15px; margin-bottom: 10px;">
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food9.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 211px; height: auto; position: relative; display: inline-block; vertical-align: top; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 19px;">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px;">동파육 만들기 소스 류수영 동파</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">육 레시피 돼지고기 요리</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food9-2.PNG">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">배화</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-bottom: 10px;">
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food10.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 211px; height: auto; position: relative; display: inline-block; vertical-align: top; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 19px;">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px; margin-left: 0px;">햄치즈김밥 만들기 소풍도시락</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-top: -1.90735e-05px;">메뉴로 좋은 간단김밥 꼬마김밥...</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food10-2.PNG">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">쁭림이</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;" class="">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-left: 15px; margin-bottom: 10px;">
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;" class="">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food11.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 211px; height: auto; position: relative; display: inline-block; vertical-align: top; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-top: 19px;">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px;">햄볶음밥 레시피 굴소스 햄야채</label>
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px;">볶음밥 만들기</label>
+                                            </div>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
+                                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food11-2.PNG">
+                                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">하우매니</label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;" class="">
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 20px; margin-top: 0px;">
+                        <div style="position: relative; box-sizing: border-box;">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 97.2px; height: 60px; position: relative; left: 0px; top: 0px; font-weight: bold; padding-top: 23px; padding-bottom: 15px;">테마별 레시피</label>
+                        </div>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;" class="">
+                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 242px; position: relative; left: 0px; top: 0px; padding-left: 20px;">
+                        <div style="position: relative; box-sizing: border-box;" class="">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 202.5px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px; margin-top: 0px;">
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/네이버/메인/테마ex 1-1.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px; margin-bottom: 4px;">#도시락만들기</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">하와이안 스팸무스비 스팸주</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">먹밥 만들기 간편 도시락 ...</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; align-content: center;">
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/테마ex 1-2.PNG">
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px;">븡스</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 202.5px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px; margin-top: 0px;">
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/네이버/메인/테마ex 2-1.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px; margin-bottom: 4px;">#야채찜</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">진서연 야채찜 자연식물식</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">다이어트 식단 들기름 소스...</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; align-content: center;">
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/테마ex 2-2.PNG">
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">꿀라</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 202.5px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px; margin-top: 0px;">
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/네이버/메인/테마ex 3-1.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px; margin-bottom: 4px;">#면요리</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">김치우동 만들기 우동 레시</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">피 신김치 우동면 요리</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; align-content: center;">
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/테마ex 3-2.PNG">
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">하우매니</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div style="position: relative; box-sizing: border-box;">
+                            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 202.5px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px; margin-top: 0px;">
+                                <div style="position: relative; box-sizing: border-box;" class="">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/네이버/메인/테마ex 4-1.PNG">
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px; margin-bottom: 4px;">#애호박볶음레시피</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">새우젓 애호박볶음 레시피</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">호박볶음 애 호박나물볶음</label>
+                                </div>
+                                <div style="position: relative; box-sizing: border-box;">
+                                    <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; align-content: center; margin-left: 0px;">
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/테마ex 4-2.PNG">
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">윤스</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: absolute; left: 780px; top: -205px; background-color: rgba(0, 0, 0, 0);">
+                        <img src="Assets/네이버/메인/t버튼 우2s.png">
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div style="position: relative; box-sizing: border-box;">
+            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 100%; height: 50px; position: relative; left: 0px; top: 0px;">펼쳐보기&nbsp;
+                <img src="Assets/네이버/메인/펼쳐보기 +.PNG">
+            </button>
+        </div>
+    </div>
+</div>
