@@ -206,13 +206,16 @@
                                             </button>
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; color: rgb(58, 103, 234); font-weight: normal; font-size: 13.6px; padding-left: 16px; left: 50px;">언론사</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: -0.166667px; color: rgb(58, 103, 234); font-weight: normal; font-size: 13.6px; padding-left: 16px; left: 50px;" data-center-y="true">언론사</label>
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
-                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; font-size: 13.6px; margin-left: 0px; margin-top: 0px; padding-right: 16px; left: 50px;">&nbsp;더보기 1/4</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: -0.166667px; font-size: 13.6px; margin-left: 0px; margin-top: 0px; padding-right: 16px; left: 53px;">&nbsp;더보기 1</label>
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
-                                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 50px;">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13.6px; margin-left: 0px; margin-top: 0px; padding-right: 16px; left: 42px; top: 1.83333px; color: rgb(205, 205, 205);">/4</label>
+                                        </div>
+                                        <div style="position: relative; box-sizing: border-box;">
+                                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 45px;">
                                                 <img src="C:/Users/IT_88/Documents/SpiderGenWorkspace/TestPrj/메인/t버튼 우.png">
                                             </button>
                                         </div>
@@ -402,7 +405,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;" class="">
                                             <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; left: 0px; top: 0px; margin-top: 0px; font-size: 11.5px; text-align: left;">
-                                                <img src="Assets/Naver/예보비교2 sz.png">
+                                                <img src="Assets/네이버/메인/예보비교2 sz.png">
                                             </button>
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
@@ -435,7 +438,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;" class="">
                                             <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 3px; font-size: 11.5px; text-align: left;">
-                                                <img src="Assets/Naver/증시p.PNG">
+                                                <img src="Assets/네이버/메인/증시p.PNG">
                                             </button>
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;" class="">
@@ -443,7 +446,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
                                             <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 16px; height: 100%; position: relative; left: 0px; top: calc(50% - 14px);" data-center-y="true">
-                                                <img src="Assets/Naver/증시_sz.png">
+                                                <img src="Assets/네이버/메인/증시_sz.png">
                                             </button>
                                         </div>
                                     </div>
