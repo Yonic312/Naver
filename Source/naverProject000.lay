@@ -245,13 +245,13 @@
                 <div style="position: relative; box-sizing: border-box;">
                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 830px; height: 560px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(205, 205, 205, 0.48); background-color: rgba(0, 0, 0, 0); overflow: hidden;">
                         <div style="position: relative; box-sizing: border-box;">
-                            <div data-base="ATabView" data-class="ATabView" class="ATabView-Style" data-state="0" style="width: 830px; height: 100%; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px;" data-listener-swipe="naverProject000:onATabView1Swipe" id="naverProject000--centerMenu" data-tab-select="shopping" data-tabinfo-shopping="shopping,쇼핑,'',0" data-tabinfo-mens="mens,맨즈,'',1" data-tabinfo-1p1="1p1,원쁠딜,'',2" data-tabinfo-shoppinglive="shoppingLive,쇼핑라이브,'',3">
-                                <div class="tab_area" style="display: block;">
+                            <div data-base="ATabView" data-class="ATabView" class="ATabView-Style" data-state="0" style="width: 830px; height: 100%; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px; background-color: rgb(255, 255, 255);" data-listener-swipe="naverProject000:onATabView1Swipe" id="naverProject000--centerMenu" data-tab-select="shopping" data-tabinfo-mens="mens,맨즈,'',1" data-tabinfo-shoppinglive="shoppingLive,쇼핑라이브,'',3" data-tabinfo-shopping="shopping,쇼핑,Source/SubView/Shopping.lay,0" data-tabinfo-1p1="1p1,원쁠딜,'',2">
+                                <div class="tab_area" style="display: none;">
                                     <span class="ATabView_select" style="">tab1</span>
                                     <span class="ATabView_deselect" style="">tab2</span>
                                     <span class="ATabView_deselect" style="">tab3</span>
                                 </div>
-                                <div class="tab_contents" style="height: calc(100% - 21px);"></div>
+                                <div class="tab_contents" style="height: 100%;"></div>
                             </div>
                         </div>
                     </div>
