@@ -52,11 +52,11 @@
         "children": [
           {
             "type": 1,
-            "name": "네이버",
+            "name": "Naver",
             "children": [
               {
                 "type": 1,
-                "name": "메인",
+                "name": "main",
                 "children": [
                   {
                     "type": 8,
@@ -96,13 +96,13 @@
                   },
                   {
                     "type": 8,
-                    "name": "m광고1.png",
+                    "name": "mad1.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "m광고2.png",
+                    "name": "mad2.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
@@ -126,13 +126,13 @@
                   },
                   {
                     "type": 8,
-                    "name": "t버튼 우.png",
+                    "name": "tbtr.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "t버튼 좌.png",
+                    "name": "tbtl.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
@@ -180,19 +180,19 @@
                   },
                   {
                     "type": 8,
-                    "name": "날씨1.PNG",
+                    "name": "whether1.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "날씨2.PNG",
+                    "name": "whether2.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 1,
-                    "name": "뉴스",
+                    "name": "news",
                     "children": [
                       {
                         "type": 8,
@@ -342,157 +342,157 @@
                   },
                   {
                     "type": 8,
-                    "name": "뉴스 메뉴 1.png",
+                    "name": "news menu 1.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "뉴스 메뉴 2.png",
+                    "name": "news menu 2.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "달력 w.PNG",
+                    "name": "calander w.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "배너 광고1.jpg",
+                    "name": "baner ad1.jpg",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑 i1.PNG",
+                    "name": "shopping i1.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑 i2.PNG",
+                    "name": "shopping i2.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑 i3.PNG",
+                    "name": "shopping i3.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑 i4.PNG",
+                    "name": "shopping i4.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "예보비교2 sz.png",
+                    "name": "Forecast comp2 sz.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "증시_p2-removebg-preview.png",
+                    "name": "stock_p2-removebg-preview.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "증시_sz.png",
+                    "name": "stock_sz.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "증시m1.PNG",
+                    "name": "stockm1.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "증시m2.PNG",
+                    "name": "stockm2.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "증시p.PNG",
+                    "name": "stockp.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i5.PNG",
+                    "name": "shoppingi5.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i10.PNG",
+                    "name": "shoppingi10.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i11.PNG",
+                    "name": "shoppingi11.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i12.PNG",
+                    "name": "shoppingi12.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i13.PNG",
+                    "name": "shoppingi13.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i14.PNG",
+                    "name": "shoppingi14.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i15.PNG",
+                    "name": "shoppingi15.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i16.PNG",
+                    "name": "shoppingi16.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i17.PNG",
+                    "name": "shoppingi17.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i18.PNG",
+                    "name": "shoppingi18.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i19.PNG",
+                    "name": "shoppingi19.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "쇼핑i20.PNG",
+                    "name": "shoppingi20.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   },
@@ -624,61 +624,61 @@
                   },
                   {
                     "type": 8,
-                    "name": "테마ex 1-1.PNG",
+                    "name": "Theme_ex 1-1.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "테마ex 1-2.PNG",
+                    "name": "Theme_ex 1-2.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "테마ex 2-1.PNG",
+                    "name": "Theme_ex 2-1.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "테마ex 2-2.PNG",
+                    "name": "Theme_ex 2-2.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "테마ex 3-1.PNG",
+                    "name": "Theme_ex 3-1.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "테마ex 3-2.PNG",
+                    "name": "Theme_ex 3-2.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "테마ex 4-1.PNG",
+                    "name": "Theme_ex 4-1.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "테마ex 4-2.PNG",
+                    "name": "Theme_ex 4-2.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "펼쳐보기 +.PNG",
+                    "name": "Expand +.PNG",
                     "relType": 1,
                     "path": "..\\..\\네이버\\메인\\"
                   },
                   {
                     "type": 8,
-                    "name": "t버튼 우2s.png",
+                    "name": "tBTN r2s.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\메인\\"
                   }
@@ -686,65 +686,65 @@
               },
               {
                 "type": 1,
-                "name": "상단",
+                "name": "top",
                 "children": [
                   {
                     "type": 8,
-                    "name": "3뉴스.PNG",
+                    "name": "3news.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3더보기.PNG",
+                    "name": "3Plus.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3메뉴.PNG",
+                    "name": "3Menu.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3부동산.PNG",
+                    "name": "3reality.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3블로그.PNG",
+                    "name": "3blog.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3스토어.PNG",
+                    "name": "3store.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3웹툰.PNG",
+                    "name": "3webtoon.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3증권.PNG",
+                    "name": "3bank.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3지도.PNG",
+                    "name": "3map.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "3카페.PNG",
+                    "name": "3cafe.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
@@ -756,49 +756,49 @@
                   },
                   {
                     "type": 8,
-                    "name": "h광고1.png",
+                    "name": "hADS1.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "h광고2.png",
+                    "name": "hADS.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "검색창.PNG",
+                    "name": "Search.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "메뉴.PNG",
+                    "name": "Menu.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "메세지.PNG",
+                    "name": "Message.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "장바구니.PNG",
+                    "name": "shopbag.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "종.PNG",
+                    "name": "bell.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   },
                   {
                     "type": 8,
-                    "name": "치지직.PNG",
+                    "name": "TV.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\상단\\"
                   }
@@ -806,17 +806,17 @@
               },
               {
                 "type": 1,
-                "name": "팝업",
+                "name": "popup",
                 "children": [
                   {
                     "type": 8,
-                    "name": "버튼 p.png",
+                    "name": "BTN p.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\팝업\\"
                   },
                   {
                     "type": 8,
-                    "name": "상단 버튼 p.png",
+                    "name": "TOP BTN p.png",
                     "relType": 1,
                     "path": "Assets\\네이버\\팝업\\"
                   }
@@ -824,7 +824,7 @@
               },
               {
                 "type": 1,
-                "name": "하단",
+                "name": "bottom",
                 "children": [
                   {
                     "type": 8,
@@ -846,19 +846,19 @@
                   },
                   {
                     "type": 8,
-                    "name": "기업 사이트.PNG",
+                    "name": "company site.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\하단\\"
                   },
                   {
                     "type": 8,
-                    "name": "옆괄호.PNG",
+                    "name": "right emo .PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\하단\\"
                   },
                   {
                     "type": 8,
-                    "name": "웨일 브라우저 - 복사본.PNG",
+                    "name": "whale browser.PNG",
                     "relType": 1,
                     "path": "Assets\\네이버\\하단\\"
                   }

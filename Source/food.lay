@@ -67,7 +67,7 @@
                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 830px; height: 266px; position: relative; top: 0px;">
                         <div style="position: relative; box-sizing: border-box;" class="">
                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 270px; height: 266px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-left: 20px; padding-bottom: 24px; margin-left: -4px;">
-                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/food1.PNG">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/food1.PNG">
                                 <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 98px; position: relative; left: 0px; top: 0px; flex-direction: column;">
                                     <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; color: rgb(235, 170, 0); margin-bottom: 4px;">레시피 집중탐구</label>
@@ -86,7 +86,7 @@
                         </div>
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 270px; height: 266px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-left: 20px; padding-bottom: 24px; margin-left: -4px;">
-                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/food2.PNG">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/food2.PNG">
                                 <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 98px; position: relative; left: 0px; top: 0px; flex-direction: column;">
                                     <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; color: rgb(235, 170, 0); margin-bottom: 4px;">푸드스토리</label>
@@ -105,7 +105,7 @@
                         </div>
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: 270px; height: 266px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding-left: 20px; padding-bottom: 24px; margin-left: -4px;">
-                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/food3.PNG">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 250px; height: 144px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/food3.PNG">
                                 <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 98px; position: relative; left: 0px; top: 0px; flex-direction: column;">
                                     <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 10.5px; color: rgb(235, 170, 0); margin-bottom: 4px;">오늘의 푸드TV</label>
@@ -129,7 +129,7 @@
                         <div style="position: relative; box-sizing: border-box;" class="">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-bottom: 10px;">
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food4.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/Naver/main/food4.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
@@ -141,7 +141,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food4-2.PNG">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/Naver/main/food4-2.PNG">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">꼬마츄츄</label>
                                             </div>
                                         </div>
@@ -152,7 +152,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-left: 15px; margin-bottom: 10px;">
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food5.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/Naver/main/food5.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
@@ -164,7 +164,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food5-1.PNG">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/Naver/main/food5-1.PNG">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">깡아맘</label>
                                             </div>
                                         </div>
@@ -175,7 +175,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-bottom: 10px;">
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food6.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/Naver/main/food6.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
@@ -187,7 +187,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food6-2.PNG">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/Naver/main/food6-2.PNG">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">끝도없는 인기</label>
                                             </div>
                                         </div>
@@ -198,7 +198,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-left: 15px; margin-bottom: 10px;">
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food7.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/Naver/main/food7.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
@@ -210,7 +210,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/7--2.PNG">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/Naver/main/food4-2.PNG">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">이너셋</label>
                                             </div>
                                         </div>
@@ -221,7 +221,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-bottom: 10px;">
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food8.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/Naver/main/food8.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
@@ -233,7 +233,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food8-2.PNG">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/Naver/main/food8-2.PNG">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">애플</label>
                                             </div>
                                         </div>
@@ -244,7 +244,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-left: 15px; margin-bottom: 10px;">
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food9.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/Naver/main/food9.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
@@ -256,7 +256,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food9-2.PNG">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/Naver/main/food9-2.PNG">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">배화</label>
                                             </div>
                                         </div>
@@ -267,7 +267,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-bottom: 10px;">
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food10.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/Naver/main/food10.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
@@ -279,7 +279,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food10-2.PNG">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/Naver/main/food10-2.PNG">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">쁭림이</label>
                                             </div>
                                         </div>
@@ -290,7 +290,7 @@
                         <div style="position: relative; box-sizing: border-box;" class="">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 381px; position: relative; left: 0px; top: 0px; height: 100px; padding-bottom: 16px; margin-left: 15px; margin-bottom: 10px;">
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 153px; align-self: auto;" class="">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/네이버/메인/food11.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 153px; position: relative; left: 0px; top: 0px; height: 100px;" src="Assets/Naver/main/food11.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px;">
@@ -302,7 +302,7 @@
                                         </div>
                                         <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
                                             <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
-                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/네이버/메인/food11-2.PNG">
+                                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; position: relative; vertical-align: top; display: inline-block; height: 20px; left: 0px; top: 0px;" src="Assets/Naver/main/food11-2.PNG">
                                                 <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">하우매니</label>
                                             </div>
                                         </div>
@@ -324,7 +324,7 @@
                         <div style="position: relative; box-sizing: border-box;" class="">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 202.5px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px; margin-top: 0px;">
                                 <div style="position: relative; box-sizing: border-box;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/네이버/메인/테마ex 1-1.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/Naver/main/Theme_ex 1-1.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box;">
                                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px; margin-bottom: 4px;">#도시락만들기</label>
@@ -338,7 +338,7 @@
                                 <div style="position: relative; box-sizing: border-box;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; align-content: center;">
                                         <div style="position: relative; box-sizing: border-box;">
-                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/테마ex 1-2.PNG">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/Theme_ex 1-2.PNG">
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
                                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px;">븡스</label>
@@ -350,7 +350,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 202.5px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px; margin-top: 0px;">
                                 <div style="position: relative; box-sizing: border-box;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/네이버/메인/테마ex 2-1.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px; margin-left: 0px;" src="Assets/Naver/main/Theme_ex 2-1.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box;">
                                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px; margin-bottom: 4px;">#야채찜</label>
@@ -364,7 +364,7 @@
                                 <div style="position: relative; box-sizing: border-box;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; align-content: center;">
                                         <div style="position: relative; box-sizing: border-box;">
-                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/테마ex 2-2.PNG">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/Theme_ex 2-2.PNG">
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
                                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">꿀라</label>
@@ -376,7 +376,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 202.5px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px; margin-top: 0px;">
                                 <div style="position: relative; box-sizing: border-box;">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/네이버/메인/테마ex 3-1.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/Naver/main/Theme_ex 3-1.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box;">
                                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px; margin-bottom: 4px;">#면요리</label>
@@ -390,7 +390,7 @@
                                 <div style="position: relative; box-sizing: border-box;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; align-content: center;">
                                         <div style="position: relative; box-sizing: border-box;">
-                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/테마ex 3-2.PNG">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/Theme_ex 3-2.PNG">
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
                                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">하우매니</label>
@@ -402,7 +402,7 @@
                         <div style="position: relative; box-sizing: border-box;">
                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 202.5px; height: 100%; position: relative; left: 0px; top: 0px; flex-direction: column; margin-left: 0px; margin-top: 0px;">
                                 <div style="position: relative; box-sizing: border-box;" class="">
-                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/네이버/메인/테마ex 4-1.PNG">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 120px; position: relative; left: 0px; top: 0px; width: 182.5px;" src="Assets/Naver/main/Theme_ex 4-1.PNG">
                                 </div>
                                 <div style="position: relative; box-sizing: border-box;">
                                     <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px; margin-bottom: 4px;">#애호박볶음레시피</label>
@@ -416,7 +416,7 @@
                                 <div style="position: relative; box-sizing: border-box;">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 300px; height: auto; position: relative; left: 0px; top: 0px; align-items: center; align-content: center; margin-left: 0px;">
                                         <div style="position: relative; box-sizing: border-box;">
-                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/테마ex 4-2.PNG">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 20px; height: 20px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/Theme_ex 4-2.PNG">
                                         </div>
                                         <div style="position: relative; box-sizing: border-box;">
                                             <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">윤스</label>
@@ -429,14 +429,14 @@
                 </div>
                 <div style="position: relative; box-sizing: border-box;">
                     <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: absolute; left: 780px; top: -205px; background-color: rgba(0, 0, 0, 0);">
-                        <img src="Assets/네이버/메인/t버튼 우2s.png">
+                        <img src="Assets/Naver/main/tBTN r2s.png">
                     </button>
                 </div>
             </div>
         </div>
         <div style="position: relative; box-sizing: border-box;">
             <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 100%; height: 50px; position: relative; left: 0px; top: 0px;">펼쳐보기&nbsp;
-                <img src="Assets/네이버/메인/펼쳐보기 +.PNG">
+                <img src="Assets/Naver/main/Expand +.PNG">
             </button>
         </div>
     </div>

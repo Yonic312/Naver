@@ -116,25 +116,25 @@
                                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="height: 74.5px; position: relative; top: 0px; align-items: center; left: 0px; background-color: rgb(249, 251, 253); border-width: 1px; border-style: solid; border-color: rgb(211, 213, 215); width: 248px; text-align: center;">
                                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑 i1.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/shopping i1.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">쇼핑MY</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px; margin-left: 0px; margin-top: 0px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑 i2.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/shopping i2.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">리뷰적립</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑 i3.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/shopping i3.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">주문</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; left: 0px; top: 0px; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px; margin-top: 0px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑 i4.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/shopping i4.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">장바구니</label>
                                                     </div>
                                                 </div>
@@ -145,7 +145,7 @@
                                 <div style="position: relative; box-sizing: border-box;" class="">
                                     <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 10px;">
                                         <div style="position: relative; box-sizing: border-box;" class="">
-                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 248px; height: 100%; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑i5.PNG">
+                                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 248px; height: 100%; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/shoppingi5.PNG">
                                         </div>
                                     </div>
                                 </div>
@@ -164,70 +164,70 @@
                                             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; align-items: flex-start; flex-wrap: wrap;">
                                                 <div style="position: relative; box-sizing: border-box;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i10.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/Naver/main/shoppingi10.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">혜지스 토트백</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">특가 세일 중!</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; margin-left: 8px; width: 95px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i11.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/Naver/main/shoppingi11.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">목주름 많으신분</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">깜짝 특가 1+1</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; margin: 0px 0px 0px 8px; width: 95px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i12.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/Naver/main/shoppingi12.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">후기가 증명해~</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">도톰쇼파패드</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative; margin-left: 8px;" src="Assets/네이버/메인/쇼핑i13.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative; margin-left: 8px;" src="Assets/Naver/main/shoppingi13.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">고급진~헤링본!</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">최대90%+무배!</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 16px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i14.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/Naver/main/shoppingi14.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">양털~안감보여?</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">후끈후끈hot따뜻</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i15.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/Naver/main/shoppingi15.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">겨울코디부탁해</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">인기신상할인중</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;" class="">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 8px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i16.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative; margin-top: 0px;" src="Assets/Naver/main/shoppingi16.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">48시간 ALL SALE</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">무료배송까지~</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 8px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i17.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/Naver/main/shoppingi17.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">10,000보 걷기?</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">쉽던데요?</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;" class="">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 8px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i18.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/Naver/main/shoppingi18.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">따듯한데 예뻐~</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">연말 코디로 딱!</label>
                                                     </div>
                                                 </div>
                                                 <div style="position: relative; box-sizing: border-box;">
                                                     <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 95px; margin-left: 8px;">
-                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/네이버/메인/쇼핑i19.PNG">
+                                                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 98px; height: 126px; position: relative;" src="Assets/Naver/main/shoppingi19.PNG">
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">호떡 그맛 그대로</label>
                                                         <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">특가때 쟁여놔요</label>
                                                     </div>
@@ -245,7 +245,7 @@
         <div style="position: relative; box-sizing: border-box;">
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: auto; height: 50px; position: relative; left: 0px; top: 0px; padding: 15px 20px 14px; margin-left: 20px; margin-right: 20px; text-align: center; justify-content: center; align-items: center;">
                 <div style="position: relative; box-sizing: border-box; flex: 1 1 auto; align-self: auto;" class="">
-                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: auto; height: 50px; position: relative; left: 0px; top: 0px;" src="Assets/네이버/메인/쇼핑i20.PNG">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: auto; height: 50px; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/shoppingi20.PNG">
                 </div>
             </div>
         </div>
@@ -253,7 +253,7 @@
             <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 58px; position: relative; padding-top: 10px; padding-bottom: 11px; top: 0px; margin-top: 17px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48); text-align: center; align-items: center; justify-content: center; left: -1px;">
                 <div style="position: relative; box-sizing: border-box;" class="">
                     <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;">
-                        <img src="Assets/네이버/메인/t버튼 좌.png">
+                        <img src="Assets/Naver/main/tbtl.png">
                     </button>
                 </div>
                 <div style="position: relative; box-sizing: border-box;" class="">
@@ -270,11 +270,11 @@
                 </div>
                 <div style="position: relative; box-sizing: border-box;">
                     <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;">
-                        <img src="Assets/네이버/메인/t버튼 우.png">
+                        <img src="Assets/Naver/main/tbtr.png">
                     </button>
                 </div>
                 <div style="position: relative; box-sizing: border-box;">
-                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 33px; height: 21px; position: absolute; top: calc(50% - 10.5px); left: 250px;" src="Assets/네이버/메인/ad.PNG" data-center-y="true">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 33px; height: 21px; position: absolute; top: calc(50% - 10.5px); left: 250px;" src="Assets/Naver/main/ad.PNG" data-center-y="true">
                 </div>
             </div>
         </div>
