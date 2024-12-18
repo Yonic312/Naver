@@ -1,0 +1,13 @@
+
+.news{}
+#mouse-over-label:hover ~ .n1{
+	display:block !important;
+}
+.n1{display:none !important;}
+
+.news{}
+#mouse-over-label:hover ~ .n1{
+	display:block !important;
+}
+.n1{display:none !important;}
+

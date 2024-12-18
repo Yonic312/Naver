@@ -1,0 +1,7 @@
+{
+  "styleName": "newsScrollBar",
+  "items": {
+    "{\n    width: 25.": ".webkit-scrollbar{}\n::-webkit-scrollbar {\n    width: 25.5px;\n}",
+    "edit_here": "/* 가로 스크롤바 숨기기 */\nbody {\n    overflow-x: hidden;\n}\n\n/* 세로 스크롤바의 너비 설정 */\n::-webkit-scrollbar {\n    width: 25.5px; /* 세로 스크롤바의 너비 */\n    height: 0px; /* 가로 스크롤바 높이 0으로 설정 */\n}\n\n/* 스크롤바 막대 설정 */\n::-webkit-scrollbar-thumb {\n    background-color: #c1c1c1;\n}\n\n/* 스크롤바 뒷 배경 설정 */\n::-webkit-scrollbar-track {\n    background-color: #f1f1f1;\n}\n"
+  }
+}

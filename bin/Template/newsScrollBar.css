@@ -1,0 +1,27 @@
+
+.webkit-scrollbar{}
+::-webkit-scrollbar {
+    width: 25.5px !important;
+}
+
+/* 가로 스크롤바 숨기기 */
+body {
+    overflow-x: hidden !important;
+}
+
+/* 세로 스크롤바의 너비 설정 */
+::-webkit-scrollbar {
+    width: 25.5px !important; /* 세로 스크롤바의 너비 */
+    height: 0px !important; /* 가로 스크롤바 높이 0으로 설정 */
+}
+
+/* 스크롤바 막대 설정 */
+::-webkit-scrollbar-thumb {
+    background-color: #c1c1c1 !important;
+}
+
+/* 스크롤바 뒷 배경 설정 */
+::-webkit-scrollbar-track {
+    background-color: #f1f1f1 !important;
+}
+

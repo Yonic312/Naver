@@ -1,0 +1,131 @@
+<div data-base="AView" data-class="mens" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 502px; background-color: rgb(255, 255, 255); position: relative;" data-browser-width="830" data-browser-height="502" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;ALabel&quot;,&quot;AButton&quot;,&quot;AImage&quot;]}">
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 376px; position: relative; left: 0px; top: 0px; padding-left: 20px; padding-right: 20px; margin-left: 0px; background-color: rgba(0, 0, 0, 0);">
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 786px; height: 375px; position: absolute; left: calc(50% - 393px); top: 0px; background-color: rgba(0, 0, 0, 0);" data-center-x="true">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 248px; height: 356px; position: absolute; left: 0px; top: 0px; background-color: rgb(255, 255, 255); float:left;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 248px; height: 88px; position: relative; left: 0px; top: 0px; background-color: rgb(249, 251, 253); border-width: 1px; border-color: rgba(211, 213, 215, 0.48); text-align: center;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 25px; position: relative; left: calc(50% - 123px); background-color: rgba(0, 0, 0, 0); margin-left: 0px; text-align: center; margin-top: 10px;" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: 15px; position: relative; margin-top: 0px; font-size: 10px; margin-left: 0px; left: 0px; width: auto; top: 0px; text-align: center;">쿠팡</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: 12px; position: relative; margin-top: 0px; font-size: 10px; padding-left: 5px; padding-right: 5px; font-weight: normal; background-color: rgba(0, 0, 0, 0); color: rgb(211, 213, 215); left: 0px; width: auto; top: 0px; text-align: center; margin-left: 2px; margin-right: 2px;">•</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: 15px; position: relative; margin-top: 0px; font-size: 10px; margin-left: 5px; font-weight: normal; left: 0px; width: auto; top: 0px; text-align: center; margin-right: 5px;">G마켓</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: 12px; position: relative; margin-top: 0px; font-size: 10px; padding-left: 5px; padding-right: 5px; font-weight: normal; background-color: rgba(0, 0, 0, 0); color: rgb(211, 213, 215); left: 0px; width: auto; top: 0px; text-align: center; margin-left: 2px; margin-right: 2px;">•</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: 15px; position: relative; margin-top: 0px; font-size: 10px; left: 0px; width: auto; top: 0px; text-align: center; margin-left: 5px; margin-right: 5px;">옥션</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: 12px; position: relative; margin-top: 0px; font-size: 10px; padding-left: 5px; padding-right: 5px; font-weight: normal; background-color: rgba(0, 0, 0, 0); color: rgb(211, 213, 215); left: 0px; width: auto; top: 0px; text-align: center; margin-left: 2px; margin-right: 2px;">•</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: 15px; position: relative; margin-top: 0px; font-size: 10px; left: 0px; width: 38px; top: 0px; text-align: center; font-weight: bold;">SSG닷컴</label>
+                    </div>
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 25px; position: relative; left: calc(50% - 123px); background-color: rgba(0, 0, 0, 0); text-align: center;" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; font-size: 10.5px; font-weight: normal;">11번가</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 10.5px; padding-left: 6px; padding-right: 6px; text-align: left; background-color: rgba(0, 0, 0, 0); color: rgb(211, 213, 215); margin-right: 7px; margin-left: 7px;">•</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; font-size: 10.5px; margin-right: 5px; margin-left: 13px;">올리브영</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 10.5px; padding-left: 6px; padding-right: 6px; text-align: center; background-color: rgba(0, 0, 0, 0); color: rgb(211, 213, 215); margin-right: 7px; margin-left: 7px;">•</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; font-size: 10.5px; font-weight: bold;">하프클럽</label>
+                    </div>
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 25px; position: relative; left: calc(50% - 123px); background-color: rgba(0, 0, 0, 0); text-align: center;" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; font-size: 10.5px;">GS SHOP</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; font-size: 10.5px; padding-left: 5px; padding-right: 5px; background-color: rgba(0, 0, 0, 0); color: rgb(211, 213, 215); margin-left: 2px; margin-right: 2px;">•</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; font-size: 10.5px; margin-left: 7px; font-weight: bold;">CJ온스타일</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; font-size: 10.5px; padding-left: 5px; padding-right: 5px; background-color: rgba(0, 0, 0, 0); color: rgb(211, 213, 215); margin-left: 2px; margin-right: 2px;">•</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; font-size: 10.5px; font-weight: normal;">패션플러스</label>
+                    </div>
+                </div>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-top: 10px;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 248px; height: 74.5px; position: relative; left: 0px; top: 0px; background-color: rgb(249, 251, 253); border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px; float: left; top: calc(50% - 26px); margin-left: 12px;" data-center-y="true">
+                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;">
+                                <img src="Assets/Naver/main/shopping i1.PNG">
+                            </button>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">쇼핑MY</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px; margin-left: 0px; margin-top: 0px; float: left; top: calc(50% - 26px);" data-center-y="true">
+                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;">
+                                <img src="Assets/Naver/main/shopping i2.PNG">
+                            </button>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">리뷰적립</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px; float: left; top: calc(50% - 26px);" data-center-y="true">
+                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;">
+                                <img src="Assets/Naver/main/shopping i3.PNG">
+                            </button>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">주문</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 55px; height: 54.5px; position: relative; min-width: 0px; background-color: rgba(255, 255, 255, 0); text-align: center; padding-top: 3px; margin-top: 0px; float: left; top: calc(50% - 26px);" data-center-y="true">
+                            <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; left: 0px; top: 0px;">
+                                <img src="Assets/Naver/main/shopping i4.PNG">
+                            </button>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; font-size: 11px;">장바구니</label>
+                        </div>
+                    </div>
+                </div>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px; margin-top: 10px; background-color: rgba(0, 0, 0, 0);">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 248px; height: 100%; position: relative; background-color: rgba(0, 0, 0, 0);" src="Assets/Naver/main/mens/mens1.PNG">
+                </div>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; background-color: rgba(0, 0, 0, 0); text-align: center; margin-top: 8px;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; text-align: center;">마지막 특가! 절대 놓치지마</label>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 538px; height: 375px; position: relative; left: 0px; top: 0px; padding-left: 20px; padding-right: 20px; float: right; background-color: rgba(0, 0, 0, 0);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 518px; height: 375px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 125px; right: 0px; bottom: 0px; float: left;">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: 126px; position: relative; left: 0px;" src="Assets/Naver/main/mens/mens3.PNG">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px; margin-top: 8px;">알페신 카페인샴푸</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">대용량 초특가 할인!</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 125px; right: 0px; bottom: 0px; float: left; margin-left: 6px;">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 125px; height: 126px; position: relative; margin-top: 1px;" src="Assets/Naver/main/mens/mens4.PNG">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px; margin-top: 8px;">컬럼비아 구스다운~</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">평점 4.9 특가로 겟!</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; margin: 0px 0px 0px 6px; width: 125px; right: 0px; bottom: 0px; float: left;">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 125px; height: 126px; position: relative; margin-top: 1px;" src="Assets/Naver/main/mens/mens5.PNG">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px; margin-top: 8px;">아직도 전기장판 켜?</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">나는 발열이불 덮어</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 125px; right: 0px; bottom: 0px; float: left; margin-left: 6px;">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 125px; height: 126px; position: relative; margin-left: 8px; margin-top: 1px;" src="Assets/Naver/main/mens/mens6.PNG">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px; margin-top: 8px;">김종국 헬스 필수템</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">고함량 아르기닌</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 125px; right: 0px; bottom: 0px; float: left;">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 125px; height: 126px; position: relative; margin-top: 0px;" src="Assets/Naver/main/mens/mens7.PNG">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px; margin-top: 8px;">ZIOZIA 구스다운</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">패딩코트 8만원대</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 125px; right: 0px; bottom: 0px; float: left; margin-left: 6px;">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 125px; height: 126px; position: relative; margin-top: 1px;" src="Assets/Naver/main/mens/mens8.PNG">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px; margin-top: 8px;">비밀링크 4만원 할인!</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">지금아니면 놓쳐요</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 125px; right: 0px; bottom: 0px; float: left; margin-left: 6px;">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 125px; height: 126px; position: relative; margin-top: 1px;" src="Assets/Naver/main/mens/mens9.PNG">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px; margin-top: 8px;">캐시미어코트 특가</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">80% OFF 39,000원</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 186px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: left; padding-bottom: 14px; width: 125px; right: 0px; bottom: 0px; float: left; margin-left: 6px;">
+                            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 125px; height: 126px; position: relative; left: 0px; top: 0px; margin-top: 1px;" src="Assets/Naver/main/mens/mens10.PNG">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px; margin-top: 8px;">60% 겨울맞이 할인!</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px; font-size: 11px;">모그라미팬티 5매SET
+                                <br>
+                            </label>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 50px; position: relative; left: 0px; top: 0px; margin-left: 20px; margin-right: 20px; padding: 0px; margin-top: 0px; background-color: rgba(0, 0, 0, 0);">
+        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: auto; height: 50px; position: relative; right: 0px; bottom: 0px;" src="Assets/Naver/main/mens/mens11.PNG">
+    </div>
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 57px; position: relative; left: 0px; top: 0px; margin-top: 17px; padding-top: 10px; padding-bottom: 11px; background-color: rgba(0, 0, 0, 0); text-align: center; border-top: 1px solid rgba(211, 213, 215, 0.48); border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgba(211, 213, 215, 0.48); border-bottom-color: rgba(211, 213, 215, 0.48); border-left-color: rgba(211, 213, 215, 0.48);">
+        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: 100%; position: relative; top: 0px; left: 0px; margin-left: 40px;">
+            <img src="Assets/Naver/main/tbtl.png">
+        </button>
+        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-left: 12px; top: 0px; left: 0px; color: rgb(152, 88, 245); font-weight: bold;">맨즈아이템</label>
+        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: 0px; left: 0px;">&nbsp;더보기&nbsp;</label>
+        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-weight: bold; top: 0px; left: 0px;">1</label>
+        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(205, 205, 205); padding-right: 12px; top: 0px; left: 0px;">/7</label>
+        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: 100%; position: relative; top: 0px; left: 0px;">
+            <img src="Assets/Naver/main/tbtr.png">
+        </button>
+        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 15px; position: relative; left: 0px; top: calc(50% - 10.5px); float: right; margin-right: 30px; margin-left: 0px; margin-top: 0px; width: 21px;" src="Assets/Naver/main/ad.PNG" data-center-y="true">
+    </div>
+</div>

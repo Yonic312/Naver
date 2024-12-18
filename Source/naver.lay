@@ -1,0 +1,717 @@
+<div data-base="AView" data-class="naver" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 2787px; background-color: rgb(255, 255, 255); position: absolute; min-width: 1280px;" data-browser-width="1920" data-browser-height="1080" data-max-abutton="1" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AButton&quot;,&quot;ATextField&quot;,&quot;AImage&quot;,&quot;ALabel&quot;,&quot;AGridLayout&quot;,&quot;ATabView&quot;]}">
+    <div data-base="AView" data-class="Top" class="AView-Style" style="width: 1280px; height: 346px; position: relative; left: calc(50% - 640px); top: 0px; background-color: rgb(255, 255, 255);">
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; position: relative; background-color: rgba(0, 0, 0, 0); height: 32px; text-align: left; margin-left: 0px; margin-top: 10px;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 100%; position: relative; left: calc(50% - 640px); top: 0px; background-color: rgb(255, 255, 255);">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; text-align: left; display: inline; vertical-align: baseline; margin-top: 0px; margin-left: 0px;">
+                </button>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; text-align: left; display: inline; vertical-align: baseline; margin: 0px 0px 0px 15px;">
+                </button>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; text-align: left; display: inline; vertical-align: baseline; margin: 0px 0px 0px 15px; float: right;">
+                </button>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; text-align: left; display: inline; vertical-align: baseline; margin-top: 0px; margin-left: 15px; float: right;">
+                </button>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; text-align: left; display: inline; vertical-align: baseline; margin-top: 0px; float: right;">
+                </button>
+            </div>
+        </div>
+        <div data-base="AView" data-class="AView" class="AView-Style" style="height: 58px; position: relative; background-color: rgba(0, 0, 0, 0); width: 709px; margin-top: 5px; left: calc(50% - 354.5px); text-align: center;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 480px; height: auto; position: relative; margin-left: 67px;">
+                <input data-base="ATextField" data-class="ATextField" type="text" value="" class="ATextField-Style" autocomplete="off" style="width: 480px; height: 58px; position: absolute; background-color: rgba(0, 0, 0, 0); border-width: 0px; font-size: 16px; font-weight: bold; margin-left: 0px; color: rgb(0, 0, 0); left: 0px; top: 0px; z-index: 1; overflow: visible; outline:none;" id="naver--main_text">
+            </div>
+            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 707px; height: 58px; position: absolute; left: 0px; top: 0px;" src="Assets/Naver/top/Search.PNG">
+        </div>
+        <div data-base="AView" data-class="아이콘메뉴" class="AView-Style" style="width: auto; position: relative; height: 80px; background-color: rgba(0, 0, 0, 0); margin-left: 10px; text-align: center; white-space: normal; vertical-align: baseline; overflow: visible; margin-bottom: 24px; margin-top: 5px; left: calc(50% - 635px);" data-center-x="true">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; margin-left: 0px; text-align: center;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3Menu.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 24px; height: auto; position: relative; margin-top: 0px; left: 0px; top: 0px;">메일</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative; margin-top: 3.33334px;">
+                    <img src="Assets/Naver/top/3cafe.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">카페</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3blog.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">블로그</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3store.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">스토어</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3news.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">뉴스</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3bank.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">증권</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3reality.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">부동산</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3map.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">지도</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3webtoon.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">웹툰</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative; top: -3px;">
+                    <img src="Assets/Naver/top/TV.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">치지직</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); display: inline-block; margin-top: 0px; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 40px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px; height: 40px; margin-bottom: 8px;" data-listener-click="naver:onAButton1Click">
+                    <img src="Assets/Naver/top/3Plus.PNG" style="width: 40px; height: 40px;">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">&nbsp; &nbsp;&nbsp;</label>
+            </div>
+        </div>
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 150px; position: relative; background-color: rgba(0, 0, 0, 0); text-align: center; margin-left: 0px; margin-top: -18px;">
+            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 522px; height: 108px; position: relative; left: 0px; top: 0px; margin-top: 30px; margin-left: 80px;" src="Assets/Naver/top/hADS1.png">
+            <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 228px; position: relative; height: 108px; margin-left: 40px; left: 0px; top: 0px;" src="Assets/Naver/top/hADS.png">
+        </div>
+    </div>
+    <div data-base="AView" data-class="main" class="AView-Style" style="width: 1280px; height: 423px; position: relative; background-color: rgba(0, 0, 0, 0); left: calc(50% - 640px); top: 0px; margin-left: 0px;">
+        <div data-base="AView" data-class="main_left" class="AView-Style" style="width: 830px; height: 2055px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); float: left;">
+            <div data-base="AView" data-class="뉴스" class="AView-Style" style="width: 830px; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); border-width: 1px; border-style: solid; border-radius: 10px; border-color: rgba(211, 213, 215, 0.48);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 794px; height: auto; position: relative; left: 0px; top: 0px; margin-left: 16px; margin-top: 16px; margin-right: 16px; background-color: rgba(0, 0, 0, 0);">
+                    <div data-base="AView" data-class="1" class="AView-Style" style="width: 100%; height: auto; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; margin-bottom: 17px;">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-weight: bold; font-size: 13px;">뉴스스탠드</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;• 언론사편집</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;/ 엔터</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;/ 스포츠</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;/ 경제</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;/ 쇼핑투데이</label>
+                    </div>
+                    <div data-base="AView" data-class="2" class="AView-Style" style="width: 790px; height: 50px; position: relative; background-color: rgb(245, 247, 248);">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 560px; height: 100%; position: relative; padding-top: 12px; padding-bottom: 12px; padding-left: 12px; background-color: rgb(245, 247, 248); left: 0px; top: 0px; float: left; margin-left: 20px;">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; text-align: left; font-size: 13px;">전체언론사 ▼</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">|</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">연합뉴스</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">·</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">김용현, 계엄발표 4시간 전 '충암 후배' 이상민과 통화</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 100%; position: relative; text-align: right; padding-top: 12px; padding-bottom: 12px; background-color: rgb(245, 247, 248); left: 0px; top: 0px; margin-left: 0px; margin-top: 0px; float: right; margin-right: 20px;">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">뉴스스탠드</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">&nbsp;|&nbsp;</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13px;">뉴스홈</label>
+                        </div>
+                    </div>
+                    <div data-base="AGridLayout" data-class="AGridLayout" class="AGridLayout-Style" style="width: 100%; height: 224px; position: relative; left: 0px; top: 0px; margin-top: 15px; text-align: center; border-style: solid; border-color: rgba(211, 213, 215, 0.48); border-width: 0px;">
+                        <table cellpadding="0" cellspacing="0">
+                            <colgroup>
+                                <col>
+                                <col>
+                                <col width="">
+                                <col width="">
+                                <col width="">
+                                <col width="">
+                            </colgroup>
+                            <tbody>
+                                <tr>
+                                    <td style="border-color: rgba(211, 213, 215, 0.48); border-style: solid; border-width: 1px;">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 94px; height: 20px; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px;">
+                                            <img src="Assets/Naver/main/news/015.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-right: 1px solid rgba(211, 213, 215, 0.48); border-top: 1px solid rgba(211, 213, 215, 0.48); border-bottom: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/016.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-top: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/018.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-top: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/020.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-top: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/021.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-top: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/022.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="border-left: 1px solid rgba(211, 213, 215, 0.48); border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; margin-left: 0px; margin-top: 0px; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/024.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-right: 1px solid rgba(211, 213, 215, 0.48); border-bottom: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/029.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/030.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; margin-top: 0px; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/031.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/032.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; margin-left: 0px; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/038.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="border-left: 1px solid rgba(211, 213, 215, 0.48); border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; margin-left: 0px; margin-top: 0px; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/040.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-right: 1px solid rgba(211, 213, 215, 0.48); border-bottom: 1px solid rgba(211, 213, 215, 0.48);">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/042.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/044.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; margin-left: 0px; margin-top: 0px; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/047.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/052.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/055.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-left: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; margin-left: 0px; margin-top: 0px; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/056.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-right: 1px solid rgba(211, 213, 215, 0.48); border-bottom: 1px solid rgba(211, 213, 215, 0.48);">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/057.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/075.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/076.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/079.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                    <td style="border-bottom: 1px solid rgba(211, 213, 215, 0.48); border-right: 1px solid rgba(211, 213, 215, 0.48);" class="">
+                                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 66.5px; height: 20px; position: relative; left: 0px; top: 0px;">
+                                            <img src="Assets/Naver/main/news/108.png" style="width: 70%;">
+                                        </button>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div data-base="AView" data-class="4" class="AView-Style" style="width: 100%; height: 58.5px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; float: left; margin-left: 290px; top: calc(50% - 16px); left: 0px;">
+                            <img src="Assets/Naver/main/tbtl.png">
+                        </button>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 57px; height: 19px; position: relative; color: rgb(58, 103, 234); font-weight: normal; font-size: 13.6px; padding-left: 16px; float: left; top: calc(50% - 9.5px); left: 0px;">언론사</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13.6px; margin-left: 0px; margin-top: 0px; left: 0px; top: calc(50% - 9.5px); float: left;">&nbsp;더보기 1</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 33px; height: 15px; position: relative; font-size: 13.6px; margin-left: 0px; margin-top: 0px; padding-right: 16px; color: rgb(205, 205, 205); float: left; top: calc(50% - 7.5px); left: 0px;">/4</label>
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 32px; position: relative; float: left; top: calc(50% - 16px); left: 0px;">
+                            <img src="Assets/Naver/main/tbtr.png">
+                        </button>
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; text-align: left; padding-left: 9px; float: right; margin-top: 0px; top: calc(50% - 10px);">
+                            <img src="Assets/Naver/main/news_menu_2.png">
+                        </button>
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; margin-top: 0px; text-align: left; padding-right: 9px; padding-left: 20px; float: right; top: calc(50% - 10px);">
+                            <img src="Assets/Naver/main/news_menu_1.png">
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 60px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; background-color: rgba(0, 0, 0, 0);">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: 50px; position: absolute; border-radius: 10px; margin-top: 10px; margin-bottom: 10px; left: 0px; top: 0px;" src="Assets/Naver/main/baner ad1.jpg">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="height: 10px; position: relative; background-color: rgba(0, 0, 0, 0); color: rgb(151, 151, 151); font-size: 10px; left: 0px; top: 0px; float: right; margin-top: 15px; margin-right: 15px;">X</button>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 830px; height: 560px; position: relative; left: 0px; top: 0px; border-width: 0px; border-style: solid; border-color: rgba(211, 213, 215, 0.48); background-color: rgba(0, 0, 0, 0);">
+                <div data-base="ATabView" data-class="ATabView" class="ATabView-Style" data-state="0" id="naver--centerMenu" style="width: 100%; height: 100%; position: absolute; margin-left: -0.999985px; margin-top: 0px; background-color: rgb(255, 255, 255); left: 0px; top: 0px;" data-listener-swipe="naverProject000:onATabView1Swipe" data-tabinfo-shopping="shopping,쇼핑,Source/SubView/Shopping.lay,0" data-tab-select="shopping">
+                    <div class="tab_area" style="display: none;">
+                        <span class="ATabView_select">tab1</span>
+                        <span class="ATabView_deselect">tab2</span>
+                        <span class="ATabView_deselect">tab3</span>
+                    </div>
+                    <div class="tab_contents" style="height: 100%;"></div>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 830px; height: 1181px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                <div data-base="ATabView" data-class="ATabView" class="ATabView-Style" data-state="0" style="width: 830px; height: auto; position: absolute; background-color: rgba(0, 0, 0, 0); border-color: rgba(205, 205, 205, 0.48); margin-left: 0px; border-style: solid; border-width: 1px; left: 0px; top: 0px; margin-top: 10px;" data-tabinfo-food="food,음식,Source/SubView/food.lay,0" data-tab-select="food">
+                    <div class="tab_area" style="display: none;">
+                        <span class="ATabView_select">tab1</span>
+                        <span class="ATabView_deselect">tab2</span>
+                        <span class="ATabView_deselect">tab3</span>
+                    </div>
+                    <div class="tab_contents" style="height: 100%;"></div>
+                </div>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 36px; height: 36px; position: absolute; background-color: rgba(0, 0, 0, 0); top: 925px; right: 30px;">
+                    <img src="Assets/Naver/main/tbtr.png">
+                </button>
+            </div>
+        </div>
+        <div data-base="AView" data-class="main_right" class="AView-Style" style="width: 420px; height: 2055px; position: relative; left: 0px; top: 0px; float: right; background-color: rgba(0, 0, 0, 0);">
+            <div data-base="AView" data-class="login" class="AView-Style" style="width: 416px; height: 165px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; padding: 21px 20px 18px; background-color: rgba(0, 0, 0, 0); margin-left: 0px; text-align: center; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12.5px; font-weight: bold; color: rgb(0, 0, 0); right: 0px; bottom: 0px;">네이버를 더 안전하고 편리하게 이용하세요</label>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 375px; height: 57px; position: relative; color: rgb(255, 255, 255); margin-left: 0px; font-size: 14.7px; background-color: rgb(3, 199, 90); margin-top: 7px; margin-bottom: 7px; font-weight: normal; right: 0px; bottom: 0px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;로그인</button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: absolute; color: rgb(255, 255, 255); font-size: 20px; font-weight: bold; right: 210px; top: 62px;">NAVER</label>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; background-color: rgba(0, 0, 0, 0); right: 0px; bottom: 0px; margin-top: 10px;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px;">아이디 찾기</label>
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px;">&nbsp;| 비밀번호 찾기</label>
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; right: 0px; bottom: 0px;">&nbsp;| 회원가입</label>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 240px; position: relative; left: 0px; top: 0px; padding-bottom: 10px; background-color: rgba(0, 0, 0, 0);">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/mad1.png">
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 80px; position: relative; left: 0px; top: 0px; padding-bottom: 10px; margin-left: 0px; background-color: rgba(0, 0, 0, 0);">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px;" src="Assets/Naver/main/mad2.png">
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 172px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; background-color: rgba(0, 0, 0, 0);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 171px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 380px; height: 135px; position: relative; left: 0px; top: 0px; margin: 18px; background-color: rgba(0, 0, 0, 0);">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 80px; height: 100%; position: relative; background-color: rgba(0, 0, 0, 0); float: left; right: 0px; bottom: 0px; padding-right: 18px;">
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 80px; height: 100%; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: auto; position: relative; color: rgb(16, 16, 16); font-weight: bold; font-size: 15px; margin-left: 0.83px;">오늘</label>
+                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: auto; position: relative; color: rgb(16, 16, 16); font-weight: bold; font-size: 15px; margin-left: 0.83px;">이런 상품</label>
+                                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="height: auto; position: relative; color: rgb(16, 16, 16); font-weight: bold; font-size: 15px; margin-left: 0.83px; padding-bottom: 30px;">어때요?</label>
+                                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 30px; height: 19px; position: relative; border-style: solid; border-color: rgba(96, 96, 96, 0.15); margin-top: 25px;">
+                                    <img src="Assets/Naver/main/ad.PNG">
+                                </button>
+                            </div>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 300px; height: 131px; position: relative; right: 0px; bottom: 0px; float: left; background-color: rgba(0, 0, 0, 0); padding-left: 15px;">
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 90px; height: 100%; position: relative; background-color: rgba(0, 0, 0, 0); float: left; border-width: 0px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 90px; height: 90px; position: relative; float: left; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);" src="Assets/Naver/main/to ad 1-Photoroom.png">
+                                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; float: left; background-color: rgba(0, 0, 0, 0);">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(16, 16, 16); font-weight: normal; font-size: 11px;">타임헬스 트레</label>
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(16, 16, 16); font-weight: normal; font-size: 11px;">온산 마그네...</label>
+                                </div>
+                            </div>
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 90px; height: 100%; position: relative; background-color: rgba(0, 0, 0, 0); margin-left: 5.3px; float: left; border-width: 0px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 90px; height: 90px; position: relative; right: 0px; bottom: 0px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);" src="Assets/Naver/main/to ad 2-Photoroom.png">
+                                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; right: 0px; bottom: 0px; background-color: rgba(0, 0, 0, 0);">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(16, 16, 16); font-weight: normal; font-size: 11px;">S급 차전자피</label>
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(16, 16, 16); font-weight: normal; font-size: 11px;">차전차피 가...</label>
+                                </div>
+                            </div>
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 90px; height: 100%; position: relative; background-color: rgba(0, 0, 0, 0); margin-left: 5.3px; float: left; border-width: 0px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);">
+                                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 90px; height: 90px; position: relative; right: 0px; bottom: 0px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);" src="Assets/Naver/main/to ad 3-Photoroom.png">
+                                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; right: 0px; bottom: 0px; background-color: rgba(0, 0, 0, 0);">
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(16, 16, 16); font-weight: normal; font-size: 11px;">애터미 헤모힘</label>
+                                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; color: rgb(16, 16, 16); font-weight: normal; font-size: 11px;">해모힘 60포...</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 36px; height: 36px; position: absolute; background-color: rgba(0, 0, 0, 0); top: 48px; right: 0px;">
+                    <img src="Assets/Naver/main/tbtr.png">
+                </button>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 36px; height: 36px; position: absolute; background-color: rgba(0, 0, 0, 0); top: 48px; right: 290px;">
+                    <img src="Assets/Naver/main/tbtl.png">
+                </button>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 236.5px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; background-color: rgba(0, 0, 0, 0); border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 100%; position: relative; left: 0px; top: 0px; padding-left: 18px; padding-top: 6px; padding-right: 18px; margin-top: 0px; background-color: rgba(0, 0, 0, 0);">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-bottom: 6px; padding-top: 6px; padding-bottom: 6px; background-color: rgba(0, 0, 0, 0);">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 15.7px; font-weight: bold; padding-right: 7px;">날씨</label>
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; margin-top: 0px; font-size: 11.5px; text-align: left;">
+                            <img src="Assets/Naver/main/Forecast comp2 sz.png">
+                        </button>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13.6px; margin-left: 130px;">서울시 당산동 4가</label>
+                    </div>
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 375px; position: relative; left: 0px; top: 0px; margin-top: 0px; background-color: rgba(0, 0, 0, 0);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 192px; position: relative; height: 184px; border-width: 0px; border-top-style: solid; border-color: rgba(0, 0, 0, 0); margin-top: 0px; margin-left: 0px;" src="Assets/Naver/main/whether1.PNG">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 192px; height: 184px; position: relative; border-width: 0px; border-top-style: solid; border-top-color: rgba(205, 205, 205, 0.51); margin-left: 0px; margin-top: 0px; float:right;" src="Assets/Naver/main/whether2.PNG">
+                    </div>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 236.5px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; background-color: rgba(0, 0, 0, 0); border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 100%; position: relative; top: 0px; padding-left: 18px; padding-top: 6px; padding-right: 18px; background-color: rgba(0, 0, 0, 0);">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-bottom: 6px; padding-top: 6px; padding-bottom: 6px; background-color: rgba(0, 0, 0, 0);">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 15.7px; font-weight: bold; padding-right: 3px; float: left; top: calc(50% - 11px);">증시</label>
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; margin-top: 3px; font-size: 11.5px; text-align: left; top: calc(50% - 9px);">
+                        </button>
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 16px; height: 100%; position: relative; float: right; top: 6px;">
+                            <img src="Assets/Naver/main/stock_sz.png">
+                        </button>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13.6px; margin-left: 218px; float: right; top: 6px;">12.06. 15:16</label>
+                    </div>
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 100%; position: relative; left: 0px; top: 0px; float: left; background-color: rgba(0, 0, 0, 0);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 192px; position: relative; height: 184px; border-top-style: solid; border-top-color: rgba(205, 205, 205, 0.51); float:left;" src="Assets/Naver/main/stockm1.PNG">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 192px; height: 184px; position: relative; border-top-style: solid; border-top-color: rgba(205, 205, 205, 0.51); float:left;" src="Assets/Naver/main/stockm2.PNG">
+                    </div>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 240px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; padding-top: 18px; padding-left: 18px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48); background-color: rgba(0, 0, 0, 0);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); margin-top: 0px;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 14px; font-weight: bold;">넘길필요없는 LED 전자달력 벽시계</label>
+                </div>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 386px; height: auto; position: relative; padding-top: 10px; background-color: rgba(0, 0, 0, 0);">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 195px; height: 130px; position: relative; background-image: url(&quot;Assets/Naver/AD1.PNG&quot;); float:left;" src="Assets/Naver/main/AD1.PNG">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 185px; height: 130px; position: relative; left: 0px; margin-left: 5px; float: left; text-align: left; background-color: rgba(0, 0, 0, 0); border-top: 1px solid rgba(211, 213, 215, 0.48); border-bottom: 1px solid rgba(211, 213, 215, 0.48);">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: absolute; left: 0px; top: calc(50% - 19.5px); background-color: rgba(0, 0, 0, 0);">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-left: 5px; font-size: 14px; top: 0px;">넘길 필요 없는 LED</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; padding-left: 5px; padding-right: 5px; margin-left: 5px; font-size: 14px; top: 0px;">전자달력 벽시계</label>
+                        </div>
+                    </div>
+                </div>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 386px; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; margin-top: 12px;">
+                    </button>
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 80px; height: 22px; position: relative; float: right; margin-top: 12px;">더 알아보기&gt;</button>
+                </div>
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="height: 13px; position: absolute; margin-top: -185px; margin-left: 0px; z-index: 2; right: 0px; bottom: 220px; width: 31px;">
+                    <img src="Assets/Naver/main/ad x.PNG">
+                </button>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 503px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48); background-color: rgba(0, 0, 0, 0);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: auto; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 49px; position: relative; background-color: rgba(241, 237, 255, 0.49);">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-weight: bold; margin: 15px 17px 11px 19px;">위젯 보드</label>
+                    </div>
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 402px; position: relative; left: 0px; top: 0px; background-color: rgba(241, 237, 255, 0.49);">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: 192px; position: relative; left: 0px; top: 0px; margin-left: 18px; margin-right: 18px; background-color: rgba(0, 0, 0, 0);">
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 188px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255); border-width: 1px; margin-top: 0px; border-style: solid; border-radius: 5px; border-color: rgba(211, 213, 215, 0.48);">
+                                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 50%; height: 100%; position: relative; left: 0px; top: 0px; float: left; padding-left: 18px; padding-top: 8px; background-color: rgba(0, 0, 0, 0);">
+                                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: auto; position: relative; background-color: rgba(0, 0, 0, 0); float: left; left: 0px; top: 0px;">
+                                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; font-weight: bold; float: left; left: 0px;">캘린더</label>
+                                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 28px; position: relative; left: 0px; top: 0px; margin-top: 30px; margin-left: 0px; background-color: rgba(0, 0, 0, 0);">
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 60px; height: 28px; position: relative; font-size: 35px; font-weight: bold; float: left; bottom: 0px;">12.6</label>
+                                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 10px; height: 14px; position: relative; font-size: 10px; float: left; bottom: 0px; margin-top: 17px; margin-left: 30px;">금</label>
+                                        </div>
+                                    </div>
+                                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: 15px; position: relative; text-decoration: underline; font-size: 11px; font-weight: normal; float: left; margin-left: 0px; top: 0px; margin-top: 90px;">로그인하기</button>
+                                </div>
+                                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 50%; height: auto; position: relative; top: 0px; background-color: rgba(0, 0, 0, 0); left: 0px; float: right;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 170px; height: 120px; position: relative; margin-top: 50px; left: 0px; top: 0px;" src="Assets/Naver/main/calander w.PNG">
+                                </div>
+                            </div>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 376px; height: 192px; position: relative; left: 0px; top: 0px; margin-left: 18px; margin-top: 12px; margin-right: 18px; background-color: rgba(255, 255, 255, 0);">
+                            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 376px; height: 188px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 36px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0);">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: auto; height: auto; position: relative; float:left;" src="Assets/Naver/main/w1.PNG">
+                                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: 22px; position: relative; text-align: right; font-size: 10px; float: right; margin-top: 3px; margin-right: 10px;">다른 추천 보기 </button>
+                                </div>
+                                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 372px; height: 140px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); margin-left: 18px; margin-top: 12px;">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 108px; height: 126px; position: relative;" src="Assets/Naver/main/w33.png">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 108px; height: 126px; position: relative; margin-left: 10px; margin-right: 10px;" src="Assets/Naver/main/w34.png">
+                                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 108px; height: 126px; position: relative; background-color: rgba(0, 0, 0, 0);" src="Assets/Naver/main/w35.png">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 50px; position: relative; left: 0px; top: 0px; background-color: rgba(0, 0, 0, 0); padding: 20px 23px 23px 22px; margin-left: 0px;">
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; top: 1px; float:left;">
+                            <img src="Assets/Naver/main/w3.png">
+                        </button>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-weight: bold; margin-left: 10px; top: 0px;">모바일 네이버 메인 열기</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; margin-left: 190px;">&gt;</label>
+                    </div>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 420px; height: 80px; position: relative; left: 0px; top: 0px; margin-bottom: 10px; border-width: 1px; border-style: solid; border-color: rgba(211, 213, 215, 0.48); background-color: rgba(0, 0, 0, 0);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; padding-left: 18px; padding-top: 8px; padding-bottom: 8px; background-color: rgba(0, 0, 0, 0);">
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 42px; height: 42px; position: relative; float: left; top: calc(50% - 21px);">
+                        <img src="Assets/Naver/main/m_h-Photoroom.png">
+                    </button>
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: auto; height: auto; position: relative; top: calc(50% - 16.5px); margin-left: 10px; background-color: rgba(0, 0, 0, 0); float: left;">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; font-weight: bold; left: 0px; top: calc(50% - 8.5px);">네이버에서 넷플릭스를</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; top: calc(50% - 8.5px);">지금 멤버십 시작하기</label>
+                    </div>
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: auto; height: auto; position: relative; float: right; margin-right: 20px; top: calc(50% - 6.5px);">
+                        <img src="Assets/Naver/main/m2.PNG">
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div data-base="AView" data-class="footer" class="AView-Style" style="width: 100%; height: 433px; position: absolute; left: 0px; top: 2700px; background-color: rgb(245, 246, 247);">
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1282px; height: 100%; position: relative; left: calc(50% - 641px); top: 0px; background-color: rgb(245, 246, 247); margin-left: 0px; margin-top: 0px;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 161.5px; position: relative; background-color: rgba(0, 0, 0, 0); padding-top: 30px; padding-right: 3px; padding-bottom: 30px; margin-left: -2.01036px; border-bottom: 1px solid rgba(211, 213, 215, 0.48);">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 410px; height: 100%; position: relative; top: 0px; display: inline-block; background-color: rgba(0, 0, 0, 0);">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 160px; height: 100px; position: relative; display: inline-block; float: left;" src="Assets/Naver/bottom/e1.PNG">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 100px; position: relative; left: 0px; top: 0px; float: left; background-color: rgb(245, 246, 247); padding-left: 10px;">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; display: inline-block; padding-left: 6px; font-size: 13px; font-weight: bold; border-style: solid; background-color: rgb(160, 173, 178); color: rgb(255, 255, 255); padding-right: 6px; margin-left: 0px;">유엔난민기구</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; display: inline-block; font-size: 14px; margin-left: 0px; font-weight: bold;">핸드메이드 사막여우 키링</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 230px; height: auto; position: relative; display: inline-block; font-size: 13px; margin-left: 0px; font-weight: normal;">위기에 처한 어린이들을 돕고</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 230px; height: auto; position: relative; display: inline-block; font-size: 13px; margin-left: 0px; font-weight: normal;">따듯한 크리스마스를 맞이해보세요</label>
+                    </div>
+                </div>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="height: 100%; position: relative; top: 0px; display: inline-block; background-color: rgb(245, 246, 247); width: 410px;">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 160px; height: 100px; position: static; float: left; margin-left: 0px; margin-top: 0px;" src="Assets/Naver/bottom/e2.PNG">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 100px; position: relative; left: 0px; top: 0px; background-color: rgb(245, 246, 247); float: left; padding-left: 10px;">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 43px; height: 15px; position: relative; display: inline-block; padding-left: 6px; font-size: 13px; font-weight: bold; border-style: solid; background-color: rgb(160, 173, 178); color: rgb(255, 255, 255); padding-right: 6px; margin-left: 0px; left: 0px; top: 0px;">KANU</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; display: inline-block; font-size: 14px; margin-left: 0px; font-weight: bold; left: 0px;">겨울 한정판 캡슐</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 230px; height: auto; position: relative; display: inline-block; font-size: 13px; margin-left: 0px; font-weight: normal;">겨울에만 찾아오는 윈터스노우!</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 230px; height: auto; position: relative; display: inline-block; font-size: 13px; margin-left: 0px; font-weight: normal;">겨울 한정 에디션 지금 구매하기</label>
+                    </div>
+                </div>
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 410px; height: 100%; position: relative; top: 0px; display: inline-block; background-color: rgb(245, 246, 247); margin-left: 0px; margin-top: 0px;">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 160px; height: 100px; position: relative; float: left;" src="Assets/Naver/bottom/e3.PNG">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 100px; position: relative; left: 0px; top: 0px; background-color: rgb(245, 246, 247); float: left; padding-left: 10px;">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; display: inline-block; padding-left: 6px; font-size: 13px; font-weight: bold; border-style: solid; background-color: rgb(160, 173, 178); color: rgb(255, 255, 255); padding-right: 6px; margin-left: 0px;">유엔난민기구</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; display: inline-block; font-size: 14px; margin-left: 0px; font-weight: bold; left: 0px;">매운맛 골목축제</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 230px; height: auto; position: relative; display: inline-block; font-size: 13px; margin-left: 0px; font-weight: normal;">겨울에만 찾아오는 매운 축제!</label>
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 230px; height: auto; position: relative; display: inline-block; font-size: 13px; margin-left: 0px; font-weight: normal;">12.07부터 시작합니다!</label>
+                    </div>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 60.5px; position: relative; background-color: rgba(0, 0, 0, 0); margin-left: -2.00005px; margin-top: 0px; left: 0px; padding-right: 30px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; left: 0px; top: 0px; padding-top: 21px; padding-bottom: 21px; background-color: rgba(0, 0, 0, 0); border-bottom: 1px solid rgba(211, 213, 215, 0.48); text-align: left;">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13.65px; font-weight: bold; float:left;">공지사항</label>
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; float: left; margin-left: 30px; margin-top: 2px;">네이버 개인정보 처리방침 변경에 대한 안내 말씀드립니다.</label>
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 10px; height: 14px; position: relative; background-image: url(&quot;C:/Users/IT_88/Documents/SpiderGenWorkspace/TestPrj/옆괄호.PNG&quot;); margin-top: 0px; float:right;" src="Assets/Naver/bottom/right emo .PNG">
+                    <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 13.65px; margin-left: 0px; font-weight: bold; float:right;">서비스 전체보기&nbsp;</label>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 91.5px; position: relative; background-color: rgba(0, 0, 0, 0); padding-top: 20px; padding-bottom: 20px;">
+                <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 100%; position: relative; left: 0px; background-color: rgba(0, 0, 0, 0); border-bottom: 1px solid rgba(211, 213, 215, 0.48);">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 827px; height: auto; position: relative; top: calc(50% - 20px); background-color: rgba(0, 0, 0, 0); float:left;">
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 860px; height: 20px; position: relative; margin-top: 0px; background-color: rgba(0, 0, 0, 0);">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 96px; height: auto; position: relative; font-weight: bold; background-color: rgba(0, 0, 0, 0); margin-right: 10px; font-size: 13px;">Partners</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">프로젝트 꽃</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 비즈니스</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 비즈니스 스쿨</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 광고</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 스토어 개설</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 지역업체 등록</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 엑스퍼트 등록</label>
+                        </div>
+                        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 20px; position: relative; background-color: rgba(0, 0, 0, 0);">
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 96px; height: auto; position: relative; font-weight: bold; margin-right: 10px; font-size: 13px;">Developers</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">네이버 개발자 센터</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 오픈 API</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 오픈 소스</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 D2</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| D2SF</label>
+                            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; font-size: 12px;">&nbsp;| 네이버 랩스</label>
+                        </div>
+                    </div>
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="height: 100%; position: relative; margin-left: 151.5px; width: 298.5px; background-color: rgba(0, 0, 0, 0); float: right;">
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 143px; height: 48px; position: relative; padding: 0px; margin: 0px; right: 0px; background-color: rgba(0, 0, 0, 0); top: calc(50% - 24px); background-image: url(&quot;Assets/Naver/bottom/whale_browser.PNG&quot;); background-repeat: no-repeat;">
+                        </button>
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 143px; height: 48px; position: relative; padding: 0px; margin: 0px; right: 0px; background-color: rgba(0, 0, 0, 0); top: calc(50% - 24px); background-image: url(&quot;Assets/Naver/bottom/company_site.PNG&quot;); background-repeat: no-repeat;">
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 760px; height: 60.5px; position: relative; background-color: rgba(0, 0, 0, 0); margin-top: 0px; padding-top: 20px; left: calc(50% - 380px); top: 0px;" data-center-x="true">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 48px; height: 17px; position: relative; float: left; top: 0px; left: 0px;">회사소개</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 21px; height: 13px; position: relative; float: left; top: 2px; left: 0px;">&nbsp;|&nbsp;</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 48px; height: 17px; position: relative; float: left; top: 0px; left: 0px;">인재채용</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 22px; height: 13px; position: relative; float: left; top: 2px; left: 0px;">&nbsp;|&nbsp;</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 48px; height: 17px; position: relative; float: left; top: 0px; left: 0px;">제휴제안</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 21px; height: 13px; position: relative; float: left; top: 2px; left: 0px;">&nbsp;|&nbsp;</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 48px; height: 17px; position: relative; float: left; top: 0px; left: 0px;">이용약관</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 22px; height: 13px; position: relative; float: left; top: 2px; left: 0px;">&nbsp;|&nbsp;</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 96px; height: 17px; position: relative; float: left; top: 0px; left: 0px;">개인정보처리방침</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 21px; height: 13px; position: relative; float: left; top: 2px; left: 0px;">&nbsp;|&nbsp;</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 84px; height: 17px; position: relative; float: left; top: 0px; left: 0px;">청소년보호정책</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 21px; height: 13px; position: relative; float: left; top: 2px; left: 0px;">&nbsp;|&nbsp;</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: 17px; position: relative; float: left; top: 0px; left: 0px;">네이버 정책</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 22px; height: 13px; position: relative; float: left; top: 2px; left: 0px;">&nbsp;|&nbsp;</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 48px; height: 17px; position: relative; float: left; top: 0px; left: 0px;">고객센터</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 21px; height: 13px; position: relative; float: left; top: 2px; left: 0px;">&nbsp;|&nbsp;</label>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 99px; height: 17px; position: relative; float: left; font-weight: bold; text-align: left; top: 0px; left: 0px;">ⓒ NAVER Corp.</label>
+            </div>
+        </div>
+    </div>
+    <div data-base="AView" data-class="plus" class="AView-Style" style="width: 715px; height: 335px; position: absolute; left: calc(50% - 355.5px); top: 95px; background-color: rgba(0, 0, 0, 0); border-width: 2px; border-style: solid; border-color: rgba(211, 213, 215, 0.48); border-radius: 5px; display: none;" data-center-x="true" id="naver--menuPlus">
+        <div data-base="AView" data-class="아이콘메뉴" class="AView-Style" style="width: 100%; position: relative; height: 94.5px; background-color: rgb(255, 255, 255); text-align: center; white-space: normal; vertical-align: baseline; overflow: visible; left: 0px; padding-top: 15px; padding-left: 20px;">
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; margin-left: 0px; text-align: center;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3Menu.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 24px; height: auto; position: relative; margin-top: 0px; left: 0px; top: 0px;">메일</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative; margin-top: 3.33334px;">
+                    <img src="Assets/Naver/top/3cafe.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">카페</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3blog.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">블로그</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3store.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">스토어</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3news.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">뉴스</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3bank.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">증권</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3reality.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">부동산</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3map.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">지도</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative;">
+                    <img src="Assets/Naver/top/3webtoon.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">웹툰</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); top: 0px; display: inline-block; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 54px; height: 53px; position: relative; top: -3px;">
+                    <img src="Assets/Naver/top/TV.PNG">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative;">치지직</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 63.98px; height: 70px; position: relative; background-color: rgba(0, 0, 0, 0); display: inline-block; margin-top: 0px; left: -3px; margin-left: -15px;">
+                <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 100%; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-top: 0px; height: 58px;" data-listener-click="naverProject000:plusButtonClick">
+                    <img src="Assets/Naver/top/plus/x.PNG" style="width: 60%;">
+                </button>
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: 0px;">&nbsp; &nbsp;&nbsp;</label>
+            </div>
+        </div>
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 240.5px; position: relative; left: 0px; background-color: rgb(250, 251, 251); border-top: 1px solid rgba(211, 213, 215, 0.48); margin-left: 0px; margin-top: 0px; top: 0px; padding-left: 27px; padding-right: 27px; padding-bottom: 10px;">
+            <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: 40px; position: relative; left: 0px; top: 0px; padding-top: 18px; padding-bottom: 7px; font-weight: bold; float: left;">전체서비스 &gt;</label>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/1.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">날씨</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/2.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">네이버게임</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/3.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">네이버페이</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/4.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">네이버TV</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/5.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px; margin-top: 0px;" data-center-y="true">도서</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float: left; margin-left: 0px; margin-top: 0px;" src="Assets/Naver/top/plus/6.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">밴드</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/7.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">사전</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 28px; height: 28px; position: relative; top: 0px; float: left; margin-left: 0px; margin-top: 0px;">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">쇼핑라이브</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/9.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">스포츠</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/10.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">시리즈</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float: left; margin-left: 0px;" src="Assets/Naver/top/plus/11.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">웹소설</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/12.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px; margin-top: 0px;" data-center-y="true">지식iN</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/13.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">캘린더</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/14.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">해피빈</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/15.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">MYBOX</label>
+            </div>
+            <div data-base="AView" data-class="AView" class="AView-Style" style="width: 163px; height: 28px; position: relative; left: 0px; top: 0px; padding-bottom: 0px; background-color: rgb(250, 251, 251); float: left; margin-top: 9px; margin-bottom: 9px;">
+                <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 28px; height: 28px; position: relative; top: 0px; float:left;" src="Assets/Naver/top/plus/16.PNG">
+                <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: auto; height: auto; position: relative; left: 0px; top: calc(50% - 8.5px); float: left; margin-left: 5px;" data-center-y="true">VIBE</label>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1468 @@
+{
+  "projectName": "naverProject",
+  "fileTree": {
+    "type": 0,
+    "name": "naverProject",
+    "children": [
+      {
+        "type": 1,
+        "name": "Framework",
+        "action": 1,
+        "children": [
+          {
+            "type": 11,
+            "name": "afc",
+            "relType": 7,
+            "path": "afc\\"
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Library",
+        "action": 2,
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Template",
+        "action": 4,
+        "children": [
+          {
+            "type": 1,
+            "name": "Theme",
+            "children": []
+          },
+          {
+            "type": 4,
+            "name": "naverProjectApp_global.stl",
+            "relType": 1,
+            "path": "Template\\"
+          },
+          {
+            "type": 4,
+            "name": "news1.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          },
+          {
+            "type": 4,
+            "name": "newsScrollBar.stl",
+            "action": 8,
+            "relType": 1,
+            "path": "Template\\",
+            "comment": ""
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Query",
+        "children": []
+      },
+      {
+        "type": 1,
+        "name": "Assets",
+        "children": [
+          {
+            "type": 1,
+            "name": "Naver",
+            "children": [
+              {
+                "type": 1,
+                "name": "bottom",
+                "children": [
+                  {
+                    "type": 8,
+                    "name": "e1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\bottom\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "e2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\bottom\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "e3.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\bottom\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "right emo .PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\bottom\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "company_site.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\bottom\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "whale_browser.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\bottom\\"
+                  }
+                ]
+              },
+              {
+                "type": 1,
+                "name": "main",
+                "children": [
+                  {
+                    "type": 8,
+                    "name": "7--2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "AD1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "AD2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "AD3.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "Forecast comp2 sz.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "ad.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "baner ad1.jpg",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "calander w.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food3.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food4-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "m2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "mad1.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "mad2.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 1,
+                    "name": "news",
+                    "children": [
+                      {
+                        "type": 8,
+                        "name": "015.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "016.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "018.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "020.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "021.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "022.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "024.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "029.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "030.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "031.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "032.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "038.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "040.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "042.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "044.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "047.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "052.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "055.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "056.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "057.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "075.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "076.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "079.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "108.png",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "news_c3.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "c1.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "c2.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "news_c1.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "news_c2.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "btn_down.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "btn_up.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\news\\"
+                      }
+                    ]
+                  },
+                  {
+                    "type": 8,
+                    "name": "shopping i1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shopping i2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shopping i3.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shopping i4.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi10.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi11.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi12.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi13.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi14.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi15.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi16.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi17.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi18.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi19.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi20.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shoppingi5.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "stock_p2-removebg-preview.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "stock_sz.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "stockm1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "stockm2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "stockp.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "tBTN r2s.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "tbtl.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "tbtr.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "to ad 1-Photoroom.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "to ad 2-Photoroom.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "to ad 3-Photoroom.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "w1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "w2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "w3.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "w33.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "w34.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "w35.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "w4.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "whether1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "whether2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food4-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food5-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food5-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food6-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food6-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food7-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food8-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food8-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food9-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food9-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food10-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food10-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food11-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "food11-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "theme1-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "theme1-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "theme2-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "theme2-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "theme3-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "theme3-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "theme4-1.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "theme4-2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "hang+.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "plus_x.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "news_menu_1.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "news_menu_2.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "ad_x.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "m_h-Photoroom.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 1,
+                    "name": "mens",
+                    "children": [
+                      {
+                        "type": 8,
+                        "name": "mens1.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens10.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens2.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens3.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens4.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens5.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens6.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens7.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens8.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens9.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "mens11.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\mens\\"
+                      }
+                    ]
+                  },
+                  {
+                    "type": 8,
+                    "name": "m8_3.jpg",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "m8_2.jpg",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "m8_1.jpg",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "mini_ad2.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "mini_ad3.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\main\\"
+                  },
+                  {
+                    "type": 1,
+                    "name": "food",
+                    "children": [
+                      {
+                        "type": 8,
+                        "name": "f1.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "f2.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "f3.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "f4.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "f5.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "f6.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "f7.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "f8.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m1.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m2.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m3.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m4.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m5.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m6.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m7.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m8.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m9.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m10.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m11.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m12.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m13.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m14.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "m15.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\main\\food\\"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": 1,
+                "name": "popup",
+                "children": [
+                  {
+                    "type": 8,
+                    "name": "BTNp.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\popup\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "TOPBTNp.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\popup\\"
+                  }
+                ]
+              },
+              {
+                "type": 1,
+                "name": "top",
+                "children": [
+                  {
+                    "type": 8,
+                    "name": "3Menu.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3Plus.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3bank.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3blog.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3cafe.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3map.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3news.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3reality.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3store.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "3webtoon.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "Menu.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "Message.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "Pay.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "Search.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "TV.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "bell.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "hADS.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "hADS1.png",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 8,
+                    "name": "shopbag.PNG",
+                    "relType": 1,
+                    "path": "Assets\\Naver\\top\\"
+                  },
+                  {
+                    "type": 1,
+                    "name": "plus",
+                    "children": [
+                      {
+                        "type": 8,
+                        "name": "1.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "10.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "11.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "12.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "13.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "14.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "15.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "16.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "2.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "3.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "4.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "5.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "6.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "7.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "8.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "9.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "x.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\plus\\"
+                      }
+                    ]
+                  },
+                  {
+                    "type": 1,
+                    "name": "search",
+                    "children": [
+                      {
+                        "type": 8,
+                        "name": "logo.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\search\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "png1.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\search\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "png2.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\search\\"
+                      },
+                      {
+                        "type": 8,
+                        "name": "png3.PNG",
+                        "relType": 1,
+                        "path": "Assets\\Naver\\top\\search\\"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": 1,
+        "name": "Source",
+        "children": [
+          {
+            "type": 1,
+            "name": "PageView",
+            "children": [
+              {
+                "type": 2,
+                "name": "naverProject000.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "naverProject000.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "MainView.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "MainView.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "SubView",
+            "children": [
+              {
+                "type": 2,
+                "name": "Shopping.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "Shopping.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "food.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "food.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 2,
+                "name": "mens.cls",
+                "action": 5,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "mens.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "List1.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\",
+                "comment": ""
+              },
+              {
+                "type": 3,
+                "name": "List2.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "List3.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "List4.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "List5.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\"
+              },
+              {
+                "type": 3,
+                "name": "List6.lay",
+                "action": 6,
+                "relType": 1,
+                "path": "Source\\"
+              }
+            ]
+          },
+          {
+            "type": 1,
+            "name": "WindowView",
+            "children": []
+          },
+          {
+            "type": 2,
+            "name": "naverProjectApp.cls",
+            "relType": 1,
+            "path": "Source\\"
+          }
+        ]
+      }
+    ]
+  },
+  "version": "3.2.9"
+}

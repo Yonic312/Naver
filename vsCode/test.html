@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto Scroll Text</title>
+    <style>
+        #scroll-container {
+            width: 200px;
+            height: 90px; /* 18px * 5 items */
+            overflow: hidden;
+            position: relative;
+        }
+        #text-list {
+            position: absolute;
+            top: 0;
+            width: 100%;
+        }
+        .text-item {
+            height: 18px;
+            line-height: 18px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div id="scroll-container">
+    <div id="text-list">
+        <div class="text-item">Item 1</div>
+        <div class="text-item">Item 2</div>
+        <div class="text-item">Item 3</div>
+        <div class="text-item">Item 4</div>
+        <div class="text-item">Item 5</div>
+    </div>
+</div>
+
+<script>
+let textList = document.getElementById('text-list');
+let scrollContainer = document.getElementById('scroll-container');
+let itemHeight = 18;
+let currentPosition = 0;
+
+function scrollText() {
+    currentPosition -= 1;
+    textList.style.top = currentPosition + 'px';
+
+    if (Math.abs(currentPosition) >= textList.offsetHeight) {
+        currentPosition = scrollContainer.offsetHeight;
+    }
+}
+
+setInterval(scrollText, 50);
+</script>
+
+</body>
+</html>

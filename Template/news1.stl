@@ -1,0 +1,6 @@
+{
+  "styleName": "news1",
+  "items": {
+    "news2": ".news1{}\n.news1:hover .n1{\n\tdisplay:block;\n}\n.n1{display:none;}\n"
+  }
+}

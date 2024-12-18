@@ -1,0 +1,7 @@
+
+.news1{}
+.news1:hover .n1{
+	display:block !important;
+}
+.n1{display:none !important;}
+
