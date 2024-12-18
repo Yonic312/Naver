@@ -31,15 +31,6 @@ naverProject000.prototype.init = function(context, evtListener)
 naverProject000.prototype.onInitDone = function()
 {	
 	AView.prototype.onInitDone.call(this);
-	
-	// 마우스 들어오면
-	document.getElementById("mnews1").addEventListener('mouseover', (event) => {
-		this.news1.$ele.css("display", "block");
-	});
-	
-
-	
-
 };
 
 naverProject000.prototype.onActiveDone = function(isFirst)
@@ -101,29 +92,36 @@ naverProject000.prototype.bottom_fixedMenu_Click = function(comp, info, e)
 // 위로 자동 무한 (5개)
 naverProject000.prototype.startScrolling = function() {
     
-    let textList = document.getElementById('_1--textList');
+   let textList = document.getElementById('_1--textList');
     let currentPosition = 0;
     const itemHeight = 18;
-    const maxScroll = 72;
+    const maxScroll = 90;
+
+    // 텍스트 복제 및 초기 위치 설정
+    const clone = textList.cloneNode(true);
+    clone.style.position = "absolute";
+    clone.style.top = maxScroll + "px"; 
+    textList.parentElement.appendChild(clone);
 
     setInterval(() => {
-        // 현재 위치 값을 감소시켜 위로 이동
         currentPosition -= itemHeight;
         
-        // 텍스트 리스트 위치 조정과 애니메이션 효과 적용
         textList.style.transition = "top 0.5s ease-in-out";
         textList.style.top = currentPosition + 'px';
+        clone.style.transition = "top 0.5s ease-in-out";
+        clone.style.top = currentPosition + maxScroll + 'px';
 
         if (Math.abs(currentPosition) >= maxScroll) {
-            currentPosition = 0;
             setTimeout(() => {
+                currentPosition = 0;
                 textList.style.transition = "none";
                 textList.style.top = '0px';
+                clone.style.transition = "none";
+                clone.style.top = maxScroll + 'px';
             }, 500);
         }
     }, 3000); // 3초마다 실행
 };
-
 
 naverProject000.prototype.news_menu2 = function(comp, info, e)
 {
@@ -146,7 +144,12 @@ naverProject000.prototype.Menu_Mens = function(comp, info, e)
 	
 	this.menu_t2.$ele.css("color", "rgb(0, 0, 0)", "font-weight", "bold");
 	this.menu_t1.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
+	this.menu_t3.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
+	this.menu_t4.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
 };
+
+
+
 
 // shopping으로 넘어가기
 naverProject000.prototype.Menu_Shopping = function(comp, info, e)
@@ -180,7 +183,7 @@ naverProject000.prototype.mini_adv = function() {
         advList.style.transform = `translateX(-${currentIndex * itemWidth}px)`;
         advList.style.transition = "transform 0.5s ease-in-out";
 		
-		for(let x=1; x <= totalItems; x++){
+		for(let x=1; x < totalItems; x++){
 			images[x].style.display = currentIndex === x ? "block" : "none";
 		}
     }
@@ -198,3 +201,32 @@ window.onscroll =
 	}
 };
 
+
+
+naverProject000.prototype.Menu_shoppingLive = function(comp, info, e)
+{
+
+	this.centerMenu.selectTabById('shopping_Live');
+	
+	this.menu_t1.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
+	this.menu_t2.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
+	this.menu_t3.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
+	this.menu_t4.$ele.css("color", "rgb(0, 0, 0)", "font-weight", "bold");
+	
+
+};
+
+naverProject000.prototype.onMenu_t3Click = function(comp, info, e)
+{
+
+	this.centerMenu.selectTabById('onePlus');
+	
+	this.menu_t1.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
+	this.menu_t2.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
+	this.menu_t3.$ele.css("color", "rgb(0, 0, 0)", "font-weight", "bold");
+	this.menu_t4.$ele.css("color", "rgb(211, 213, 215)", "font-weight", "normal");
+	
+	
+
+
+};
