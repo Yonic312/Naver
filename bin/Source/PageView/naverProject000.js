@@ -26,18 +26,40 @@ naverProject000.prototype.init = function(context, evtListener)
 	
 	
 	
+	
+	this.listData = 
+    [
+        {title : "메타버스 최후 생존자' 네이버, ‘제페토’ 놓지 않는 이유는?"},
+        {title : "[DCM] ‘신용도 불안’ 한화솔루션, 김동관 부회장 커리어 ‘발목’"},
+        {title : "HDC현산 '붕괴사고 발생' 광주 화정아이파크 해체공사 마침내 마무리"},
+        {title : "삼성화재, 체계적 조직·민원 예방으로 보험업계 소비자실태평"},
+        {title : "정용진 신세계그룹 회장, 트럼프 장남과 美회동…트럼프도 만"},
+        {title : "방산·조선 해외사업 사령탑에 외국인들 잇달아 영입하는 이 회사?"}
+    ];
+	
+	// 시간 설정
+	const nowTime = new Date();
+	const month = nowTime.getMonth() + 1;
+	const day = nowTime.getDate();
+	const hours = nowTime.getHours();
+	const minutes = nowTime.getMinutes();
+	
+	
+	this.stock_time.setText(month  + "." + day +". " + hours + ":" + minutes);
+	
 };
 
 naverProject000.prototype.onInitDone = function()
 {	
 	AView.prototype.onInitDone.call(this);
+	this.listView.addItem('Source/Items/ListItemView.lay', this.listData);
 };
 
 naverProject000.prototype.onActiveDone = function(isFirst)
 {
 	AView.prototype.onActiveDone.call(this, isFirst);
 	
-	//TODO:edit here
+	
 
 };
 
@@ -70,7 +92,6 @@ naverProject000.prototype.onAButton2Click = function(comp, info, e)
 naverProject000.prototype.Stock_Button_Click = function(comp, info, e)
 {
 	const nowTime = new Date();
-	
 	const month = nowTime.getMonth() + 1;
 	const day = nowTime.getDate();
 	const hours = nowTime.getHours();

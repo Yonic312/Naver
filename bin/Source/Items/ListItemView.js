@@ -42,7 +42,6 @@ ListItemView.prototype.setData = function(data)
 {
 	this.data = data;
 
-    this.itemImage.setImage(data.img);
-    this.itemLabel.setText(data.title);
+	this.itemLabel.setText(data.title);
 
 };
